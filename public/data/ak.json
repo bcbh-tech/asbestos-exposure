@@ -1,0 +1,200 @@
+{
+    "results": [
+ {
+    "id": 1,
+   "company": "Alaska RR Fed Credit Union",
+   "city": "Alaska City",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 2,
+   "company": "Alaska Steamship company",
+   "city": "Nome",
+   "state": "Alassa",
+   "visibility": "visible"
+ },
+ {
+    "id": 3,
+   "company": "Alaskan Pipeline",
+   "city": "Valdez",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 4,
+   "company": "Alcoa Bauxite",
+   "city": "Bauxite",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 5,
+   "company": "Anchorage Hospital",
+   "city": "Anchorage",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 6,
+   "company": "Arco Refinery",
+   "city": "Alaska City",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 7,
+   "company": "Baxter Labs",
+   "city": "Mountain Home",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 8,
+   "company": "Bethel Municipal",
+   "city": "Bethel",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 9,
+   "company": "Cape Lisburne AFB",
+   "city": "Cape Lisburne",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 10,
+   "company": "Cape Newenham AFB",
+   "city": "Cape Newenham",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 11,
+   "company": "Cape Romanzof AFB",
+   "city": "Cape Romanzof",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 12,
+   "company": "Chandler",
+   "city": "Fairbanks",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 13,
+   "company": "Collier Carbon & Chemical Plant",
+   "city": "Kenai",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 14,
+   "company": "Eilson Air force Base",
+   "city": "Fairbanks",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 15,
+   "company": "Elmendorf AFB",
+   "city": "Anchorage",
+   "state": "Alaska",
+   "visibility": "visible"
+ },
+ {
+    "id": 16,
+   "company": "Elmendorf Air Force Base",
+   "city": "Anchorage",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 17,
+   "company": "Galena AFB",
+   "city": "Galena",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 18,
+   "company": "Georgia Pacific Paper Mill",
+   "city": "Ketchikan",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 19,
+   "company": "Ladd Air Force Base",
+   "city": "Fairbanks",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 20,
+   "company": "Pacific Beach",
+   "city": "Washington",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 21,
+   "company": "Sims Drake Puget Sound",
+   "city": "Adan",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 22,
+   "company": "Sitka Paper Mill",
+   "city": "Anchorage",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 23,
+   "company": "U.S. Naval Base",
+   "city": "Kodiak",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 24,
+   "company": "University of Alaska",
+   "city": "Fairbanks",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 25,
+   "company": "US Belly power House",
+   "city": "Fairbanks",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 26,
+   "company": "USURAAL Credit Union",
+   "city": "Alaska City",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 27,
+   "company": "Value mart",
+   "city": "Alaska City",
+   "state": "Alaska",
+   "visibility": ""
+ },
+ {
+    "id": 28,
+   "company": "Wildwood AFB",
+   "city": "Kenai",
+   "state": "Alaska",
+   "visibility": ""
+ }
+]
+}
