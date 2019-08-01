@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import Pagination from './partials/components/pagination';
 import FilterBar from './partials/components/filterbar';
-import {updateTheCity} from './partials/helpers/update-city';
+import {updateTheCity} from './partials/helper-functions/update-city';
 
 
 class App extends Component {
