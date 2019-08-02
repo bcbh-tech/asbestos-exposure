@@ -3,6 +3,7 @@ import './App.css';
 import Pagination from './partials/components/pagination';
 import FilterBar from './partials/components/filter-bar';
 import ItemList from './partials/components/item-list';
+import FilterBarLower from './partials/components/filter-bar-lower';
 import {updateCity} from './partials/helper-functions/update-city';
 import {updatePagination} from './partials/helper-functions/update-pagination';
 import {updateSearch} from './partials/helper-functions/update-search';
@@ -122,15 +123,18 @@ class App extends Component {
     return (
       <div className="container" style={{ marginTop: 50 }}>
         <div className="filter-bar">
-          <h2>Asbestos Exposure By Location</h2>
-          <FilterBar 
-            updateState={this.updateState} 
-            updateCity={this.handleCityChange} 
-            selectedCity={this.state.selectedCity}
-            searchList={this.handleSearch}
-            filter={this.state.filter} 
-            rawAppData={this.state.products}
-          />
+          <div className="filter-bar-boxes">
+            <h2>Asbestos Exposure By Location</h2>
+            <FilterBar 
+              updateState={this.updateState} 
+              updateCity={this.handleCityChange} 
+              selectedCity={this.state.selectedCity}
+              searchList={this.handleSearch}
+              filter={this.state.filter} 
+              rawAppData={this.state.products}
+            />
+          </div>
+          <FilterBarLower />
         </div>
         <ItemList 
           filteredAppData={this.state.filteredProducts} 

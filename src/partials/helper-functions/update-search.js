@@ -17,7 +17,7 @@ export function updateSearch (event, productsList, cityFilter) {
       }
     } else if (!event.target.value && cityFilter !== '') { 
       for (let m = 0; m < arrayLength; m++) {
-        if (productsList[m].city.toLowerCase().indexOf(cityFilter.toLowerCase()) !== -1) {
+        if (productsList[m].city.toLowerCase() === cityFilter.toLowerCase()) {
           filteredSearchList.push(productsList[m]);
         }
       }

@@ -3,7 +3,7 @@ export function updateCity (event, productsList) {
     if (event.value !== '') {
     let arrayLength = productsList.length;
     for (var i = 0; i < arrayLength; i++) {
-        if (productsList[i].city.toLowerCase().indexOf(event.label.toLowerCase()) !== -1) {
+        if (productsList[i].city.toLowerCase() === event.label.toLowerCase()) {
         filteredSearchList.push(productsList[i]);
         }
     }
