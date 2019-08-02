@@ -1,4 +1,4 @@
-export function updateTheCity (event, productsList) {
+export function updateCity (event, productsList) {
     let filteredSearchList = [];
     if (event.value !== '') {
     let arrayLength = productsList.length;
