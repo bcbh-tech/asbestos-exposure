@@ -23,6 +23,7 @@ class App extends Component {
     value: 'al',
     totalPages: 0,
     cityFilter: '',
+    loading: false,
     selectedCity: [{"value": "none", "label": "Select..."}]
   }
 
@@ -37,12 +38,14 @@ class App extends Component {
   ////////////////////////////
 
   componentDidMount() {
+    this.setState({loading: true});
     let outsideStateSelect = window.location.href.indexOf("state") > -1 ? window.location.href.split('state=')[1] : 'al';
     document.getElementById("state-select").value = outsideStateSelect;
     fetch(`data/${outsideStateSelect}.json`)
     .then((res) => res.json())
     .then((data) => {
       this.setState({
+        loading: false,
         products: data.results,
         filteredProducts: data.results,
         totalPages: Math.ceil(data.results.length / 15),
@@ -53,6 +56,7 @@ class App extends Component {
 
   updateState = (stateSelection) => {
     this.setState({
+      loading: true,
       value: stateSelection.target.value
     });
     let dataFetchString = `data/${stateSelection.target.value}.json`;
@@ -60,6 +64,7 @@ class App extends Component {
     .then((res) => res.json())
     .then((data) => {
       this.setState({
+        loading: false,
         products: data.results,
         filteredProducts: data.results,
         filter: '',
@@ -137,7 +142,9 @@ class App extends Component {
           <FilterBarLower />
         </div>
         <ItemList 
-          filteredAppData={this.state.filteredProducts} 
+          filteredAppData={this.state.filteredProducts}
+          searchQuery={this.state.filter}
+          listLoading={this.state.loading} 
         />
         <Pagination 
           updateFullList={this.handlePaginationClick} 

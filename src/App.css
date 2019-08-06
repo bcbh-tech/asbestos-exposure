@@ -148,3 +148,34 @@
   border: none;
   margin: 0;
 }
+
+/* Loading Placeholder Animation */
+
+.placeholder-text {
+  display: inline-block;
+  background-color: #444;
+  height: 12px;
+  border-radius: 100px;
+  margin: 5px 0;
+  min-width: 400px;
+  opacity: .1;
+  animation: fading 1s infinite;
+}
+
+.placeholder-text.placeholder-right {
+  min-width: 160px;
+}
+
+@keyframes fading {
+  0% {
+    opacity: .1;
+  }
+  
+  50% {
+    opacity: .2;
+  }
+  
+  100% {
+    opacity: .1;
+  }
+}

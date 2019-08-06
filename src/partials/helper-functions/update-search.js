@@ -1,13 +1,13 @@
 export function updateSearch (event, productsList, cityFilter) {
     let arrayLength = productsList.length;
     let filteredSearchList = [];
-    if (event.target.value && cityFilter === '') {
+    if (event.target.value && (cityFilter === '' || cityFilter === 'All')) {
       for (let i = 0; i < arrayLength; i++) {
         if (productsList[i].company.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1 || productsList[i].city.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1) {
           filteredSearchList.push(productsList[i]);
         }  
       }
-    } else if (event.target.value && cityFilter !== '') {
+    } else if (event.target.value && (cityFilter !== '' || cityFilter !== 'All')) {
       for (let n = 0; n < arrayLength; n++) {
         if (
             (productsList[n].company.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1 && productsList[n].city.toLowerCase().indexOf(cityFilter.toLowerCase()) !== -1) 
@@ -15,7 +15,7 @@ export function updateSearch (event, productsList, cityFilter) {
           filteredSearchList.push(productsList[n]);
         }  
       }
-    } else if (!event.target.value && cityFilter !== '') { 
+    } else if (!event.target.value && cityFilter !== '' && cityFilter !== 'All') { 
       for (let m = 0; m < arrayLength; m++) {
         if (productsList[m].city.toLowerCase() === cityFilter.toLowerCase()) {
           filteredSearchList.push(productsList[m]);
