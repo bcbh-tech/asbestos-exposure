@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import ReactPaginate from 'react-paginate';
 
 class Pagination extends Component {
+
     render () {
         return (
             <ReactPaginate
@@ -16,6 +17,7 @@ class Pagination extends Component {
                 containerClassName={'pagination'}
                 subContainerClassName={'pages pagination'}
                 activeClassName={'active'}
+                forcePage={this.props.paginationSelection}
             />
         );
     }

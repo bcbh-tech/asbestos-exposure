@@ -7,7 +7,7 @@ class ItemList extends Component {
         let loadingAnimation = function() {
             let placeholiderList = [];
             for (let i = 0; i < 15; i++) {
-                placeholiderList.push(<li className="visible list-item"><span className="list-item-left placeholder-text"></span><span className="list-item-right placeholder-text placeholder-right"></span></li>);
+                placeholiderList.push(<li key={i} className="visible list-item"><span className="list-item-left placeholder-text"></span><span className="list-item-right placeholder-text placeholder-right"></span></li>);
             }
             return placeholiderList;
         }

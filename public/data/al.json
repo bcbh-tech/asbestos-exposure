@@ -7808,7 +7808,7 @@
       {
         "id": 1200,
         "company": "Courtaulds Fibers Incorporated",
-        "city": "Lemoyne",
+        "city": "Le Moyne",
         "state": "AL",
         "visibility": ""
       },
@@ -11217,7 +11217,7 @@
       {
         "id": 2043,
         "company": "Courtaulds",
-        "city": "Lemoyne/Axis",
+        "city": "Le Moyne",
         "state": "AL",
         "visibility": ""
       },
@@ -11715,13 +11715,6 @@
         "id": 2137,
         "company": "Widows Steam/Tva",
         "city": "Widows Creek",
-        "state": "AL",
-        "visibility": ""
-      },
-      {
-        "id": 2139,
-        "company": "Stauffer Chemcial Co.",
-        "city": "Le Mayne",
         "state": "AL",
         "visibility": ""
       },
@@ -13212,7 +13205,7 @@
       {
         "id": 2399,
         "company": "Shell Chemical Plant",
-        "city": "Lemoyne",
+        "city": "Le Moyne",
         "state": "AL",
         "visibility": ""
       },

@@ -22,6 +22,7 @@ class App extends Component {
     offset: 0,
     value: 'al',
     totalPages: 0,
+    pagination: 0,
     cityFilter: '',
     loading: false,
     selectedCity: [{"value": "none", "label": "Select..."}]
@@ -69,6 +70,7 @@ class App extends Component {
         filteredProducts: data.results,
         filter: '',
         cityFilter: '',
+        pagination: 0,
         totalPages: Math.ceil(data.results.length / 15),
         selectedCity: [{"value": "none", "label": "Select..."}]
       });
@@ -88,6 +90,7 @@ class App extends Component {
   handlePaginationClick = (paginationSelection) => {
     let paginatedList = updatePagination(paginationSelection, this.state.filteredProducts);
     this.setState({
+      pagination: paginationSelection.selected,
       filteredProducts: paginatedList
     });
   };
@@ -98,6 +101,7 @@ class App extends Component {
       filteredProducts: filteredList,
       filter: '',
       cityFilter: event.label,
+      pagination: 0,
       totalPages: Math.ceil(filteredList.length / 15),
       selectedCity: [{"value": event.value, "label": event.label}]
     });
@@ -110,6 +114,7 @@ class App extends Component {
     let filteredSearchList = updateSearch(event, this.state.products, this.state.cityFilter);
     this.setState({
       filteredProducts: filteredSearchList,
+      pagination: 0,
       totalPages: Math.ceil(filteredSearchList.length / 15)
     });
   }
@@ -148,7 +153,8 @@ class App extends Component {
         />
         <Pagination 
           updateFullList={this.handlePaginationClick} 
-          totalPageCount={this.state.totalPages} 
+          totalPageCount={this.state.totalPages}
+          paginationSelection={this.state.pagination} 
         />
       </div>
     );
