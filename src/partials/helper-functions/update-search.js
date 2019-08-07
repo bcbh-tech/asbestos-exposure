@@ -3,21 +3,21 @@ export function updateSearch (event, productsList, cityFilter) {
     let filteredSearchList = [];
     if (event.target.value && (cityFilter === '' || cityFilter === 'All')) {
       for (let i = 0; i < arrayLength; i++) {
-        if (productsList[i].company.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1 || productsList[i].city.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1) {
+        if (productsList[i].company.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase().indexOf(event.target.value.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) !== -1 || productsList[i].city.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase().indexOf(event.target.value.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) !== -1) {
           filteredSearchList.push(productsList[i]);
         }  
       }
     } else if (event.target.value && (cityFilter !== '' || cityFilter !== 'All')) {
       for (let n = 0; n < arrayLength; n++) {
         if (
-            (productsList[n].company.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1 && productsList[n].city.toLowerCase().indexOf(cityFilter.toLowerCase()) !== -1) 
-            || (productsList[n].city.toLowerCase().indexOf(event.target.value.toLowerCase()) !== -1 && productsList[n].city.toLowerCase().indexOf(cityFilter.toLowerCase()) !== -1)) {
+            (productsList[n].company.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase().indexOf(event.target.value.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) !== -1 && productsList[n].city.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase().indexOf(cityFilter.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) !== -1) 
+            || (productsList[n].city.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase().indexOf(event.target.value.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) !== -1 && productsList[n].city.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase().indexOf(cityFilter.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) !== -1)) {
           filteredSearchList.push(productsList[n]);
         }  
       }
     } else if (!event.target.value && cityFilter !== '' && cityFilter !== 'All') { 
       for (let m = 0; m < arrayLength; m++) {
-        if (productsList[m].city.toLowerCase() === cityFilter.toLowerCase()) {
+        if (productsList[m].city.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase() === cityFilter.replace(",", "").replace(" ", "").replace(/[\u00E0-\u00F0]/ig,'').toLowerCase()) {
           filteredSearchList.push(productsList[m]);
         }
       }
