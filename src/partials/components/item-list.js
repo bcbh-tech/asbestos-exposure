@@ -24,8 +24,8 @@ class ItemList extends Component {
             return (
                 <div>
                     <div className="item-list-empty" id="item-list-empty">
-                        <p>Sorry, no results were found for "{this.props.searchQuery}"</p>
-                        <p>Search suggestions</p>
+                        <p className="item-list-empty-large">Sorry, no results were found for "{this.props.searchQuery}".</p>
+                        <p className="item-list-empty-bold">Search Suggestions</p>
                         <p>Check your spelling.</p>
                         <p>Try a more generic search.</p>
                         <p>Send us a message, we can help you find an exposure site location.</p>

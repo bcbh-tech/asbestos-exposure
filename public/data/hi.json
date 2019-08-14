@@ -1,0 +1,599 @@
+{
+    "results": [
+            {
+              "id": 1,
+              "company": "14Th Naval District Pearl Harbor",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 2,
+              "company": "Academy Of Arts",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 3,
+              "company": "Alamoana Shopping Center",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 60,
+              "company": "Aloha State Sales",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 27,
+              "company": "Aloha State Sales Co Inc.",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 40,
+              "company": "Aloha State Sales Co.",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 17,
+              "company": "American Factors, Limited",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 28,
+              "company": "Associated Insulation",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 61,
+              "company": "Associated Mason Limited",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 62,
+              "company": "Bechtel Power",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 58,
+              "company": "C And C, Inc.",
+              "city": "Hilo",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 96,
+              "company": "California Packing Corporation",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 4,
+              "company": "Camp Smith Pearl Harbor",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 102,
+              "company": "Canada France Hawaii Telescope - Cfht",
+              "city": "Hilo",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 5,
+              "company": "Chevron Oil Refinery",
+              "city": "Oahu",
+              "state": "HI",
+              "visibility": "visible"
+            },
+            {
+              "id": 63,
+              "company": "Chevron Usa",
+              "city": "Campbell Industrial Park",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 101,
+              "company": "Craig & Company, 350 Ward Ave.",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 24,
+              "company": "Foster Equipment Co",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 20,
+              "company": "Grove Farm",
+              "city": "Kauai",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 92,
+              "company": "Grove Farm Co",
+              "city": "Puhi, Kauai",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 72,
+              "company": "Hawaiian Agriculture Company",
+              "city": "Pahala",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 41,
+              "company": "Hawaiian Commercial Sugar",
+              "city": "Kahului",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 6,
+              "company": "Hawaiian Electric",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 64,
+              "company": "Hawaiian Electric Company - Honolulu Power Plant",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 42,
+              "company": "Hawaiian Telephone Annex",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 65,
+              "company": "Hilo Dry Wall Company, Incorporated",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 74,
+              "company": "Hilo Powder Company",
+              "city": "Hilo",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 29,
+              "company": "Honokaa Sugar Inc.",
+              "city": "Hanna",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 7,
+              "company": "Honolulu Airport",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 33,
+              "company": "Honolulu Gas Co",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 30,
+              "company": "Honolulu Iron Works",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 89,
+              "company": "Honolulu Iron Works Co",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 43,
+              "company": "Kahe Iv Power Plant - Aloha S5395",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 44,
+              "company": "Kahe Iv Power Plant - Aloha S5397",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 45,
+              "company": "Kahe Iv Power Plant - Aloha S5398",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 34,
+              "company": "Kaiser Cement & Gypsum",
+              "city": "Nanakuli",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 46,
+              "company": "Kauai Electric - Port Allen Generating Station",
+              "city": "Kauai",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 21,
+              "company": "Kekaha Sugar Company",
+              "city": "Kekaha",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 75,
+              "company": "Kohala Sugar",
+              "city": "Kilauea",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 47,
+              "company": "Kohala Sugar Co",
+              "city": "Kilauea, Kauai",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 32,
+              "company": "Kona Surf Hotel",
+              "city": "Kailua-Kona",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 103,
+              "company": "Kuakini Hospital",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 48,
+              "company": "Lambert Cole & Co.",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 49,
+              "company": "Lambert Cole & Co. - Oahu Plumbing",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 91,
+              "company": "Laupahoehoe Sugar Co",
+              "city": "Papaaloa",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 50,
+              "company": "Laupahoehoe Sugar Co - Okola Mill",
+              "city": "Hilo",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 76,
+              "company": "Laupahoehoe Sugar Company, Ookala Mill",
+              "city": "Hilo",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 67,
+              "company": "Lewers & Cooke",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 18,
+              "company": "Libby Mcneil & Libby",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 68,
+              "company": "Libby, Mcneill & Libby Cannery",
+              "city": "Makawao",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 8,
+              "company": "Lihue Plantation Powerhouse",
+              "city": "Lihue",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 37,
+              "company": "Maston Container Station",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 77,
+              "company": "Matson Navigation Company",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 51,
+              "company": "Matson Ss Lines",
+              "city": "Kahului, Maui",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 52,
+              "company": "Maui Electric Co. - Kahului Generating Station",
+              "city": "Kahului",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 19,
+              "company": "Mcbryde Sugar Co Ltd",
+              "city": "Eleele Kauai",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 104,
+              "company": "Naval Smoke Abatement Facility",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 23,
+              "company": "Oahu Sugar Co",
+              "city": "Waipahu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 90,
+              "company": "Oahu Sugar Co",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 69,
+              "company": "Owens Corning",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 59,
+              "company": "Pearl Harbor",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 38,
+              "company": "Pearl Harbor - Ute Atf 76 - Engine Room",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 9,
+              "company": "Pearl Harbor Naval Shipyard",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 10,
+              "company": "Pearl Harbor Naval Shipyard",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 11,
+              "company": "Pearl Harbor Naval Station",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 86,
+              "company": "Pearl Harbor Navy Yard",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 87,
+              "company": "Pearl Harbor Shipyard",
+              "city": "Oahu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 12,
+              "company": "Pearl Harbor Submarine Base",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 79,
+              "company": "Pioneer Mill",
+              "city": "Lahaina",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 80,
+              "company": "Pioneer Mill",
+              "city": "Kahului",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 81,
+              "company": "Port Arthur",
+              "city": "Kauai",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 82,
+              "company": "Rockefeller Job",
+              "city": "Kawaihae",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 26,
+              "company": "Shafter (Hickam) Air Force Base (General Elec.)",
+              "city": "Ft. Shafter",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 83,
+              "company": "Standard Oil",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 35,
+              "company": "Sugar Mlls&Agric",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 13,
+              "company": "U.S. Naval Shipyard",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 14,
+              "company": "U.S. Naval Supply Center",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 15,
+              "company": "U.S. Naval Transport Ship",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 16,
+              "company": "U.S. Navy Submarine Base",
+              "city": "Pearl Harbor",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 54,
+              "company": "Waiau - V111",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 55,
+              "company": "Wailuku Plantation",
+              "city": "Wailuku, Maui",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 84,
+              "company": "Wailuku Sugar",
+              "city": "Honolulu",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 56,
+              "company": "Wailuku Sugar Co - Utramar Refractories",
+              "city": "Wailuku, Maui",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 71,
+              "company": "Waipio Tunnel",
+              "city": "Waipio Acres",
+              "state": "HI",
+              "visibility": ""
+            },
+            {
+              "id": 57,
+              "company": "Yamada Transfer",
+              "city": "Hilo",
+              "state": "HI",
+              "visibility": ""
+            }
+           ]
+}

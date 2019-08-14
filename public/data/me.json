@@ -1,0 +1,2111 @@
+{
+    "results": [
+            {
+              "id": 229,
+              "company": "Acme Engineering",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 145,
+              "company": "Algin Corp.",
+              "city": "Rockland",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 230,
+              "company": "Allen Quimby Veneer Co.",
+              "city": "Bingham",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 146,
+              "company": "Allen Quimby Veneer Company",
+              "city": "Bingham",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 147,
+              "company": "Alloy Products Co",
+              "city": "Sanford",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 231,
+              "company": "American Cyanamid",
+              "city": "Sanford",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 14,
+              "company": "American Cyanamid Company",
+              "city": "Sanford",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 273,
+              "company": "American Oil",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 232,
+              "company": "American T & T",
+              "city": "East Andover",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 148,
+              "company": "American Telephone & Telegraph Co. - Andover Earth Station - Tsx-1 Bldg",
+              "city": "East Andover",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 45,
+              "company": "American Telephone & Telegraph Company",
+              "city": "East Andover",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 11,
+              "company": "American Telephone & Telegraph Company - Andover Earth Station",
+              "city": "East Andover",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 149,
+              "company": "American Woolen Mills",
+              "city": "Vassalboro",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 233,
+              "company": "Ametex Inc.",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 50,
+              "company": "Andrew J Newbury",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": "visible"
+            },
+            {
+              "id": 51,
+              "company": "Archon Raphael",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 15,
+              "company": "Armstrong Contracting & Supply Corporation",
+              "city": "Lincoln",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 150,
+              "company": "Aroostoock Potato Products - Carys Mill",
+              "city": "Houlton",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 234,
+              "company": "Aroostook Potato Co.",
+              "city": "Houlton",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 268,
+              "company": "At&T",
+              "city": "Andover",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 314,
+              "company": "Atlas Plywood Corp",
+              "city": "Greenville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 274,
+              "company": "Augusta Hospital",
+              "city": "Augusta",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 52,
+              "company": "Augustus R Loring",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 152,
+              "company": "B & M Railroad",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 235,
+              "company": "B & M Rr Maple Street Team Track",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 53,
+              "company": "B Charney Vladeck",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 122,
+              "company": "Bangor Hydro Co.",
+              "city": "Veazie",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 133,
+              "company": "Bangor Hydro Electric Co",
+              "city": "Veazie",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 153,
+              "company": "Bangor Hydro-Electric Company - Graham Station",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 123,
+              "company": "Bangor International Airport",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 316,
+              "company": "Banton Brothers",
+              "city": "Newport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 154,
+              "company": "Bates College - Chemistry Bldg",
+              "city": "Lewiston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 298,
+              "company": "Bates Manufacturing Company Plant",
+              "city": "Augusta",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 91,
+              "company": "Bates Mill",
+              "city": "Lewiston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 92,
+              "company": "Bath Iron Works",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 155,
+              "company": "Bath Iron Works",
+              "city": "East Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 156,
+              "company": "Bath Iron Works - Harding Plant",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 157,
+              "company": "Bath Iron Works - Harding Plant",
+              "city": "East Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 158,
+              "company": "Bath Iron Works - North Stores",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 236,
+              "company": "Bath Iron Works Corp.",
+              "city": "East Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 1,
+              "company": "Bath Iron Works Shipyard",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 54,
+              "company": "Belgian Tenacity",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 237,
+              "company": "Biddeford Hardware & Plumbing Supply",
+              "city": "Biddeford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 21,
+              "company": "Bliss Portland Company",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 22,
+              "company": "Blue Rock Quarry",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 93,
+              "company": "Boise Cascade",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 275,
+              "company": "Boise Cascade Paper Mill",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 159,
+              "company": "Bowdoin College - Gym",
+              "city": "Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 160,
+              "company": "Broadman Hall - Rfd #4",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 337,
+              "company": "Brunswick Naval Air Station, Building 555",
+              "city": "Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 238,
+              "company": "Buerhaus Insulation Co.",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 94,
+              "company": "Buerhause Insulation Company",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 124,
+              "company": "Campbell Electric Company",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 87,
+              "company": "Central Main Power",
+              "city": "Yarmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 163,
+              "company": "Central Maine Power - Computer Center",
+              "city": "Augusta",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 312,
+              "company": "Central Maine Power - Wyman Station Power Plant",
+              "city": "Yarmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 164,
+              "company": "Central Maine Power Co - William F. Wyman Station",
+              "city": "Yarmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 240,
+              "company": "Central Maine Power Co - William F. Wyman Station",
+              "city": "Cousins Island",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 161,
+              "company": "Central Maine Power Co - William F. Wyman Station - Siding 6, 8 And 10",
+              "city": "Yarmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 162,
+              "company": "Central Maine Power Co - William F. Wyman Station - Unit 2",
+              "city": "Yarmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 2,
+              "company": "Central Maine Power Company",
+              "city": "Wiscasset",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 276,
+              "company": "Central Maine Power Powerhouse - Mason Steam Plant",
+              "city": "Wiscasset",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 95,
+              "company": "Central Maine Powerhouse",
+              "city": "Veazie",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 96,
+              "company": "Champion Paper",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 55,
+              "company": "Charles Dauray",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 241,
+              "company": "Chemetron Corporation",
+              "city": "Searsport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 165,
+              "company": "Chemitron Corporation",
+              "city": "Searsport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 166,
+              "company": "Chevron Oil Co",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 39,
+              "company": "Cutter Fire Brick Co",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 40,
+              "company": "Cutter Fire Brick Co",
+              "city": "Banger",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 23,
+              "company": "Cutter Fire Brick Company",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 24,
+              "company": "Cutter Fire Brick Company",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 97,
+              "company": "Daniels International",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 344,
+              "company": "Decoster Egg Farm - Plains Rd",
+              "city": "Turner",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 98,
+              "company": "Downeast Urethan Company",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 167,
+              "company": "Downeast Urethane Co",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 168,
+              "company": "Downeast Urethane Co - Stevens Mills Rd",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 242,
+              "company": "Downeast Urethane Company",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 41,
+              "company": "Dragon Cement Co",
+              "city": "Thomaston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 26,
+              "company": "Dragon Cement Company",
+              "city": "Thomaston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 27,
+              "company": "Dragon Cement Company",
+              "city": "Rockland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 28,
+              "company": "E. Fine Paper & Pulp",
+              "city": "Lincoln",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 99,
+              "company": "East Yard",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 169,
+              "company": "Eastern Corporation",
+              "city": "South Brewer",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 38,
+              "company": "Eastern Fine Paper And Pulp",
+              "city": "Brewer",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 243,
+              "company": "Eastern Fine Paper, Inc.",
+              "city": "Brewer",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 278,
+              "company": "Eastern Paper",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 170,
+              "company": "Eastern Refractories",
+              "city": "Lewiston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 244,
+              "company": "Eastern Refractories Inc.",
+              "city": "Lewiston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 245,
+              "company": "Eastland Woolen Mill",
+              "city": "Corinna",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 56,
+              "company": "Elijah Kellogg",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 100,
+              "company": "Ethyl Corp.",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 171,
+              "company": "Fairchild Semiconductor Co",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 172,
+              "company": "Fenway Motel",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 173,
+              "company": "Fenway Motel - Rfd #4",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 246,
+              "company": "Forster Mfg. Co.",
+              "city": "Mattawamkeag",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 338,
+              "company": "Fort Kent Hospital",
+              "city": "Fort Kent",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 135,
+              "company": "Foster Wheeler Engineering Corporation",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 247,
+              "company": "Frary Wood Turning Corp.",
+              "city": "Wilton",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 101,
+              "company": "Fraser Paper",
+              "city": "Madawaska",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 174,
+              "company": "Fraser Paper Ltd.",
+              "city": "Madawaska",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 301,
+              "company": "Frasier Paper Mill",
+              "city": "Madawaska",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 279,
+              "company": "Frazier Paper",
+              "city": "Madawaska",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 57,
+              "company": "George Eldridge",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 58,
+              "company": "George Hawley",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 59,
+              "company": "George L. Farley",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 60,
+              "company": "George N. Seger",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 102,
+              "company": "Georgia Pacific",
+              "city": "Baileyville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 103,
+              "company": "Georgia Pacific",
+              "city": "Woodland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 311,
+              "company": "Georgia Pacific - Woodland Mill",
+              "city": "Woodland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 280,
+              "company": "Georgia Pacific / St. Croix",
+              "city": "Woodland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 42,
+              "company": "Georgia Pacific Corp",
+              "city": "Woodland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 29,
+              "company": "Georgia Pacific Corporation",
+              "city": "Woodland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 176,
+              "company": "Good Will Home Association",
+              "city": "Hinckley",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 88,
+              "company": "Great North Paper",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 281,
+              "company": "Great Northern Paper",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 345,
+              "company": "Great Northern Paper - Paper Mill - Main Street",
+              "city": "East Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 126,
+              "company": "Great Northern Paper Co",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 179,
+              "company": "Great Northern Paper Co - #6 Paper Machine",
+              "city": "East Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 180,
+              "company": "Great Northern Paper Co - Bldg. T-22",
+              "city": "East Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 181,
+              "company": "Great Northern Paper Co - Grinder Building",
+              "city": "East Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 182,
+              "company": "Great Northern Paper Co - Grinder Building - Millinocket Mill - Nbr 3 Boiler",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 183,
+              "company": "Great Northern Paper Co - Millinocket Mill",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 104,
+              "company": "Great Northern Paper Company",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 105,
+              "company": "Great Northern Paper Company",
+              "city": "Lincoln",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 177,
+              "company": "Great Northern Paper Company",
+              "city": "East Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 302,
+              "company": "Great Northern Paper Mill",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 184,
+              "company": "Hardwood Products",
+              "city": "Guilford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 248,
+              "company": "Hardwood Products Co.",
+              "city": "Guilford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 249,
+              "company": "Harvey F. Gamage Shipbuilder, Inc.",
+              "city": "South Bristol",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 346,
+              "company": "Helen M. King Middle School - Deering Avenue",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 315,
+              "company": "Hill Mfg Co",
+              "city": "Lewiston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 185,
+              "company": "Hollingsworth & Whitney Co.",
+              "city": "Waterville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 304,
+              "company": "Imc Chlor-Alkali Plant",
+              "city": "Orrington",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 3,
+              "company": "International Paper",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 19,
+              "company": "International Paper",
+              "city": "Livermore Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 36,
+              "company": "International Paper",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 282,
+              "company": "International Paper",
+              "city": "Waterville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 283,
+              "company": "International Paper (James River)",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 284,
+              "company": "International Paper (James River)",
+              "city": "Livermore Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 4,
+              "company": "International Paper Androscoggin Mill",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 127,
+              "company": "International Paper Co",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 187,
+              "company": "International Paper Co - Androscoggin Mill",
+              "city": "Riley Station",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 188,
+              "company": "International Paper Co - Androscoggin Mill 34",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 189,
+              "company": "International Paper Co - Androscoggin Mill Nbr 34",
+              "city": "Riley Station",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 190,
+              "company": "International Paper Co - Otil Mill",
+              "city": "Chisholm",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 191,
+              "company": "International Paper Co - Otil Mill",
+              "city": "Livermore",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 192,
+              "company": "International Paper Co - Otil Mill",
+              "city": "Livermore Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 142,
+              "company": "International Paper Co.",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 250,
+              "company": "International Paper Co.",
+              "city": "Lisbon Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 12,
+              "company": "International Paper Company",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 30,
+              "company": "International Paper Company",
+              "city": "Livermore Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 125,
+              "company": "International Paper Mill",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 61,
+              "company": "Isaac Sharpless",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 62,
+              "company": "James Sullivan",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 20,
+              "company": "Jay Paper Mill",
+              "city": "Jay",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 63,
+              "company": "John S Mccain (Uss)",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 64,
+              "company": "Joseph C. Lincoln",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 43,
+              "company": "Keddy Manufacturing Co",
+              "city": "S Windham",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 31,
+              "company": "Keddy Manufacturing Company",
+              "city": "Windham",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 193,
+              "company": "Kennebec River Pulp & Paper Co - Abenaki Mill",
+              "city": "Madison",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 285,
+              "company": "Keyes Fibre",
+              "city": "Waterville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 194,
+              "company": "Lincoln Paper Co",
+              "city": "Lincoln",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 108,
+              "company": "Lincoln Pulp & Paper",
+              "city": "Lincoln",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 109,
+              "company": "Lincoln Pulp & Paper",
+              "city": "Millinocket",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 5,
+              "company": "Loring Air Force Base",
+              "city": "Limestone",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 195,
+              "company": "Loring Air Force Base - Bldg 7220",
+              "city": "Limestone",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 196,
+              "company": "Loring Air Force Base - Central Heating Plant",
+              "city": "Limestone",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 197,
+              "company": "Loring Air Force Base - Heating Plant",
+              "city": "Limestone",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 198,
+              "company": "Loring Air Force Base - Power Plant",
+              "city": "Limestone",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 65,
+              "company": "Lot M Morrill",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 66,
+              "company": "Lutjens (Uss)",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 251,
+              "company": "Madison Paper Corp.",
+              "city": "Madison",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 199,
+              "company": "Maine Maritime Academy",
+              "city": "Castine",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 347,
+              "company": "Maine State Cultural Building",
+              "city": "Augusta",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 200,
+              "company": "Maine State Prison",
+              "city": "Thomaston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 201,
+              "company": "Maine Yankee Atomic Power Plant",
+              "city": "Wiscasset",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 252,
+              "company": "Maine Yankee Atomic Power Station",
+              "city": "Wiscasset",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 202,
+              "company": "Maple St Siding",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 111,
+              "company": "Maplewood Poultry Company",
+              "city": "Belfast",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 67,
+              "company": "Marcus H Tracy",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 68,
+              "company": "Maria De Larrinaga",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 112,
+              "company": "Marine Colloids, Inc.",
+              "city": "Rockland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 32,
+              "company": "Marine Transport Corp",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 113,
+              "company": "Masonite Corp.",
+              "city": "Lisbon Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 114,
+              "company": "Mead Paper",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 33,
+              "company": "Mechanical Services Inc",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 69,
+              "company": "Meletios",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 348,
+              "company": "Merchants National Bank Of Bangor - Merchants Plaza",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 44,
+              "company": "Miller Falls Co",
+              "city": "Greenfield",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 70,
+              "company": "Mitscher (Uss)",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 71,
+              "company": "Molders (Uss)",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 203,
+              "company": "Mt Mercy Academy",
+              "city": "Waterville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 72,
+              "company": "Nathaniel Bacon",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 73,
+              "company": "Nathaniel Bason",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 253,
+              "company": "New England Insulation Co.",
+              "city": "Bangor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 254,
+              "company": "New England Insulation Co.",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 255,
+              "company": "New England Shipbuilding Corporation",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 204,
+              "company": "New Windham High School",
+              "city": "Windham",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 34,
+              "company": "Northeastern Paving Corp",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 205,
+              "company": "Northern Chemical Inc",
+              "city": "Searsport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 256,
+              "company": "Northern Chemical Industries",
+              "city": "Searsport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 287,
+              "company": "Northern Paper",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 128,
+              "company": "Northern Pipe & Supply",
+              "city": "Presque Isle",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 206,
+              "company": "Ohemetron Corp",
+              "city": "Searsport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 207,
+              "company": "Otis Mill",
+              "city": "Livermore Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 89,
+              "company": "Oxford Paper",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 318,
+              "company": "Oxford Paper Co",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 151,
+              "company": "Oxford Paper Company",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 209,
+              "company": "Oxford Paper Company - Island Division",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 210,
+              "company": "Oxford Paper Company - Island Division - Store Room",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 211,
+              "company": "Oxford Paper Company - Island Division - Storeroom",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 212,
+              "company": "Oxford Paper Company - Store Room",
+              "city": "Oxford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 213,
+              "company": "Oxford Paper Company - Store Room",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 214,
+              "company": "Oxford Paper Company - Store Room - Sec A.",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 6,
+              "company": "Oxford Paper Mill",
+              "city": "Rumford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 257,
+              "company": "Patrick Soucie",
+              "city": "Caribou",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 288,
+              "company": "Penobscot Chemical Fibre Company",
+              "city": "Penobscot",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 258,
+              "company": "Penobscot Co.",
+              "city": "Old Town",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 303,
+              "company": "Penobscot Company Plant",
+              "city": "Old Town",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 289,
+              "company": "Pepperell Mill",
+              "city": "Biddeford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 259,
+              "company": "Pine Tree Insulation",
+              "city": "Auburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 215,
+              "company": "Pineland Hospital & Training Center",
+              "city": "Pownal",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 260,
+              "company": "Pineland Hospital And Training Center",
+              "city": "Pownal",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 349,
+              "company": "Polar Chemicals - Repackaging Plant",
+              "city": "Lewiston",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 137,
+              "company": "Portland High School",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 216,
+              "company": "Portland Stock",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 116,
+              "company": "Portsmouth Naval Shipyard",
+              "city": "Portsmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 138,
+              "company": "Portsmouth Naval Shipyard",
+              "city": "Kittery",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 339,
+              "company": "Post Office & Federal Office Building",
+              "city": "Augusta",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 74,
+              "company": "Purplestar",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 75,
+              "company": "Raymond B. Stevens",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 76,
+              "company": "Rio Grande",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 35,
+              "company": "Robinson Kenney",
+              "city": "Brewer",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 77,
+              "company": "Rommel (Uss)",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 218,
+              "company": "S. D. Warren Co - Cumberland Mills",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 343,
+              "company": "S. D. Warren Co - Paper Mill",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 270,
+              "company": "S.D. Warren And Company",
+              "city": "Cumberland Mills",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 309,
+              "company": "S.D. Warren Paper Mill",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 306,
+              "company": "Saco Tanning Plant",
+              "city": "Saco",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 261,
+              "company": "Saco-Lowell Shops",
+              "city": "Biddeford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 78,
+              "company": "Samadang",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 79,
+              "company": "Samadre",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 80,
+              "company": "Sambanka",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 81,
+              "company": "Samidway",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 82,
+              "company": "Samoresay",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 83,
+              "company": "Samsuva",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 84,
+              "company": "Samwake",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 7,
+              "company": "Sanford Textile Mill",
+              "city": "Sanford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 85,
+              "company": "Saraya",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 8,
+              "company": "Scarborough Downs Racetrack",
+              "city": "Scarborough",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 291,
+              "company": "Scott Paper",
+              "city": "Winslow",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 292,
+              "company": "Scott Paper",
+              "city": "Hinckley",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 13,
+              "company": "Scott Paper Company",
+              "city": "Winslow",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 263,
+              "company": "Scott Paper Company",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 310,
+              "company": "Scott Paper Mill",
+              "city": "Winslow",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 117,
+              "company": "Sd Warren",
+              "city": "Westbrook",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 16,
+              "company": "Seton Hospital",
+              "city": "Waterville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 264,
+              "company": "Simplex Wire & Cable Co.",
+              "city": "North Berwick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 9,
+              "company": "South Portland Shipyard",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 219,
+              "company": "South Portland Shipyard",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 307,
+              "company": "Sprague And Sons Plant",
+              "city": "Searsport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 129,
+              "company": "St Regis Paper Company",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 118,
+              "company": "St. Regis Paper",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 17,
+              "company": "St. Regis Paper Company",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 220,
+              "company": "St. Regis Paper Company - Maine Seaboard Division",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 299,
+              "company": "St. Regis Paper Mill",
+              "city": "Bucksport",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 221,
+              "company": "State Teachers College - Womens Dormitory",
+              "city": "Machias",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 90,
+              "company": "Sylvania Electric Products",
+              "city": "Waldoboro",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 222,
+              "company": "Taterstate Frozen Foods",
+              "city": "Washburn",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 308,
+              "company": "Texaco Tank Farm",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 139,
+              "company": "Texas Steamship Co.",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 294,
+              "company": "Texas Towers 1",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 295,
+              "company": "Texas Towers 2",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 223,
+              "company": "Therapeutic Clinic Bldg.",
+              "city": "Togas",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 265,
+              "company": "Therapeutic Clinic Building",
+              "city": "Togus",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 86,
+              "company": "Thomas H Sumner",
+              "city": "South Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 224,
+              "company": "Thomaston State Prison",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 296,
+              "company": "Todd Shipyard",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 48,
+              "company": "Topsham Air Force Base (Western Elec.)",
+              "city": "Topsham",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 225,
+              "company": "U. S. Naval Radio Station - Power House - Public Siding",
+              "city": "Machias",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 340,
+              "company": "U.S. Naval Air Station",
+              "city": "Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 18,
+              "company": "U.S. Naval Air Station, Hangar 1",
+              "city": "Brunswick",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 144,
+              "company": "Union Carbide Corporation",
+              "city": "Revere",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 342,
+              "company": "Union Mutual Life Insurance Building",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 119,
+              "company": "University Of Maine",
+              "city": "Orono",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 227,
+              "company": "University Of Maine - Heating Plant",
+              "city": "Orono",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 120,
+              "company": "Us Gypsum",
+              "city": "Lisbon Falls",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 266,
+              "company": "Valksing, Inc.",
+              "city": "Easton",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 350,
+              "company": "Veterans Administration Center",
+              "city": "Togus",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 267,
+              "company": "W. L. Blake & Company",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 49,
+              "company": "W.F. Wyman Power Station",
+              "city": "Yarmouth",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 317,
+              "company": "Wass & Stinson Canning Co",
+              "city": "Prospect Harbor",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 341,
+              "company": "Webber Hospital",
+              "city": "Biddeford",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 121,
+              "company": "West Yard",
+              "city": "Portland",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 130,
+              "company": "Western Fine Paper Co",
+              "city": "Lincoln",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 131,
+              "company": "Westinghouse Elec Co",
+              "city": "Wiscasset",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 319,
+              "company": "Whitneyville Mill Co",
+              "city": "Whitneyville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 10,
+              "company": "Wiscasset Power Plant",
+              "city": "Wiscasset",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 141,
+              "company": "Wyandotte Worsted",
+              "city": "Waterville",
+              "state": "ME",
+              "visibility": ""
+            },
+            {
+              "id": 228,
+              "company": "Ymca",
+              "city": "Bath",
+              "state": "ME",
+              "visibility": ""
+            }
+           ]
+}

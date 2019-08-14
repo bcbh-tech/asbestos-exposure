@@ -1,0 +1,1173 @@
+{
+    "results": [
+            {
+              "id": 90,
+              "company": "American Smelting & Refining",
+              "city": "East Helena",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 21,
+              "company": "American Smelting & Refining Company",
+              "city": "E Helena",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 163,
+              "company": "Anaconda Aluminum Co Aluminum Div",
+              "city": "Columbia Falls",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 22,
+              "company": "Anaconda Aluminum Company",
+              "city": "Columbia Falls",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 23,
+              "company": "Anaconda Aluminum Company",
+              "city": "Conkelley",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 1,
+              "company": "Anaconda Aluminum Plant",
+              "city": "Columbia Falls",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 208,
+              "company": "Anaconda Central High School",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 13,
+              "company": "Anaconda Company",
+              "city": "Butte",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 24,
+              "company": "Anaconda Company",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 60,
+              "company": "Anaconda Company - Green Leach Building",
+              "city": "Butte",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 14,
+              "company": "Anaconda Company, Green Leach Building",
+              "city": "Butte",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 145,
+              "company": "Anaconda Copper Company",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 96,
+              "company": "Anaconda Copper Mining Company",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 97,
+              "company": "Anaconda Copper Mining Company",
+              "city": "Butte",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 198,
+              "company": "Anaconda Forest Products",
+              "city": "Bonner",
+              "state": "MT",
+              "visibility": "visible"
+            },
+            {
+              "id": 2,
+              "company": "Anaconda Smelter",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 84,
+              "company": "Anaconda-Butte, Montana Ducts And Stacks",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 51,
+              "company": "Archie Bray Foundation",
+              "city": "Helena",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 3,
+              "company": "Arco Aluminum Plant",
+              "city": "Columbia Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 142,
+              "company": "Armstrong Contracting & Supply Corporation",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 143,
+              "company": "Armstrong Contracting & Supply Corporation",
+              "city": "Butte",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 144,
+              "company": "Armstrong Contracting & Supply Corporation",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 68,
+              "company": "Arras Tank Company",
+              "city": "Cut Bank",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 91,
+              "company": "Asarco Inc",
+              "city": "East Helena",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 209,
+              "company": "Billings City Hall",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 25,
+              "company": "Brick & Builders Supply",
+              "city": "Kalispell",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 15,
+              "company": "Broeder Lumber Company",
+              "city": "Creston",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 146,
+              "company": "Burlington Northern Santa Fe",
+              "city": "Livingston",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 132,
+              "company": "Canex Oil Refinery",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 133,
+              "company": "Carter Oil",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 45,
+              "company": "Carter Oil Company",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 4,
+              "company": "Carter Oil Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 5,
+              "company": "Catholic Hospital",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 69,
+              "company": "Cenex Refinery",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 124,
+              "company": "Cenex, Inc.",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 19,
+              "company": "Champion Paper",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 134,
+              "company": "Clausen Refrigeration",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 57,
+              "company": "Cleveland Cliffs Iron",
+              "city": "Ishpeming",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 210,
+              "company": "Columbus Hospital",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 70,
+              "company": "Conoco Oil Company",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 135,
+              "company": "Conoco Oil Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 6,
+              "company": "Conoco Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 65,
+              "company": "Continental Oil",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 71,
+              "company": "Continental Oil Co.",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 43,
+              "company": "Continental Oil Company",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 157,
+              "company": "Continental Oil Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 7,
+              "company": "Corette Powerhouse",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 211,
+              "company": "Deluxe Lounge",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 52,
+              "company": "Diehl Lumber Co",
+              "city": "Plains",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 27,
+              "company": "Diehl Lumber Company",
+              "city": "Plains",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 28,
+              "company": "Dupuis Lumber",
+              "city": "Polson",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 174,
+              "company": "E.J. Bartells Company",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 72,
+              "company": "Ej Bartells",
+              "city": "Lewiston",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 212,
+              "company": "Employment Security Building",
+              "city": "Helena",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 50,
+              "company": "Exxon Corp.",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 136,
+              "company": "Exxon Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 46,
+              "company": "Farmers Union Central",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 110,
+              "company": "Farmers Union Central Exchange",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 111,
+              "company": "Farmers Union Central Exchange - Oil Refinery",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 161,
+              "company": "Farmers Union Central Exchange Refinery",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 213,
+              "company": "Federal Reserve Bank - Lawrence And Park Aves.",
+              "city": "Helena",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 125,
+              "company": "Fiberglas Engineering & Supply Co.",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 214,
+              "company": "First National Bank Of Great Falls",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 92,
+              "company": "Forzley Sales Co",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 30,
+              "company": "Geismar Industries, Incorporated",
+              "city": "Geismar",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 73,
+              "company": "General Mills",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 99,
+              "company": "General Mills - Flour Division",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 74,
+              "company": "Glasgow Afb",
+              "city": "Glasgow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 75,
+              "company": "Glasgow Air Force Base",
+              "city": "Glasgow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 95,
+              "company": "Glasgow Air Force Base - Powerhouse",
+              "city": "Glasgow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 100,
+              "company": "Glasgow Air Force Base - Squadron Headquarters & Theater",
+              "city": "Glasgow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 137,
+              "company": "Gpi",
+              "city": "Cut Bank",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 215,
+              "company": "Great Falls International Airport",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 148,
+              "company": "Great Falls Refinery",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 216,
+              "company": "Helena High School",
+              "city": "Helena",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 217,
+              "company": "Historic Libby High School",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 64,
+              "company": "Hoerner Waldorf Corporation - Hot Process Softener Tank",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 16,
+              "company": "Hoerner Waldorf Corporation, Hot Process Softener Tank",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 112,
+              "company": "Hoerner Waldorf Paper Products",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 58,
+              "company": "Holly Sugar Corporation",
+              "city": "Sydney",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 158,
+              "company": "Humble Oil - Billings Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 31,
+              "company": "Humble Oil & Refinery Company",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 53,
+              "company": "Humble Oil And Refinery",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 34,
+              "company": "Intermountain Lumber Company",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 101,
+              "company": "J Neil Lumber Company",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 149,
+              "company": "J. Neil Lumber",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 47,
+              "company": "J. Neils Lumber Company",
+              "city": "Troy",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 20,
+              "company": "J. Neils Paper Company",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 93,
+              "company": "Kaiser Cement & Gypsum",
+              "city": "Montana City",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 76,
+              "company": "Lewiston Brick & Tile",
+              "city": "Lewiston",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 218,
+              "company": "Lincoln County Public Library",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 77,
+              "company": "Malmstrom Afb",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 78,
+              "company": "Malmstrom Air Force Base",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 219,
+              "company": "Marcus Daly Memorial Hospital",
+              "city": "Hamilton",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 54,
+              "company": "Mc Kee Arthur And Co",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 79,
+              "company": "Miles City Afb",
+              "city": "Miles City",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 80,
+              "company": "Miles City Air Force Base",
+              "city": "Miles City",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 220,
+              "company": "Mineral County Hospital/Mineral Community Hospital",
+              "city": "Superior",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 8,
+              "company": "Minute Man Missile Site",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 35,
+              "company": "Missoula White Pine Sash",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 66,
+              "company": "Mont Dakota Utilities",
+              "city": "Glendive",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 114,
+              "company": "Montana Dakota Utilities Co. - Lewis And Clark Station",
+              "city": "Sidney",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 81,
+              "company": "Montana Light & Power Company",
+              "city": "Troy",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 102,
+              "company": "Montana Power",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 162,
+              "company": "Montana Power & Light Co",
+              "city": "Colstrip",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 115,
+              "company": "Montana Power Co - Billings Plant Unit #2",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 126,
+              "company": "Montana Power Company",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 85,
+              "company": "Montana-Dakota Utilities Co. - Lewis & Clark Station",
+              "city": "Sidney",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 9,
+              "company": "Montana-Dakota Utilities Steam Plant",
+              "city": "Glendive",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 138,
+              "company": "Mountain Bell",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 116,
+              "company": "New Mens Residence",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 89,
+              "company": "North Junior High",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 82,
+              "company": "Owens Corning Fiberglass Corp.",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 36,
+              "company": "Pack River Lumber Co",
+              "city": "Thompson Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 103,
+              "company": "Paper Mill & Digester",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 37,
+              "company": "Phillips Petroleum",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 127,
+              "company": "Phillips Petroleum Co.",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 117,
+              "company": "Phillips Petroleum Company - Great Falls Refinery",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 118,
+              "company": "Phillips Petroleum Company - Great Falls Refinery - Warehouse Nbr 2",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 119,
+              "company": "Phillips Petroleum Company - Refining Department - Warehouse #2",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 160,
+              "company": "Phillips Petroleum Refinery",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 38,
+              "company": "Plum Creek Lumber Co",
+              "city": "Columbia Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 17,
+              "company": "Plum Creek Lumber Company",
+              "city": "Columbia Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 104,
+              "company": "Powerhouse",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 105,
+              "company": "Powerhouse",
+              "city": "Sidney",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 221,
+              "company": "Ravalli County Courthouse - 205 Bedford Street",
+              "city": "Hamilton",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 63,
+              "company": "Saint Regis Paper Company",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 139,
+              "company": "Saltenberger Plumbing & Heating",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 151,
+              "company": "Schmidt Plumbing & Heating",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 106,
+              "company": "Sidney Montana Powerhouse",
+              "city": "Sidney",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 39,
+              "company": "St Regis Paper Co",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 203,
+              "company": "St. Gerard's Catholic Church",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 204,
+              "company": "St. Regis Paper Co - Paper Mill",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 18,
+              "company": "St. Regis Paper Company",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 88,
+              "company": "St. Regis School",
+              "city": "St.Regis",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 205,
+              "company": "St. Vincent Hospital",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 40,
+              "company": "Stauffer Chemical",
+              "city": "Silver Bow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 41,
+              "company": "Stauffer Chemical Co",
+              "city": "Silver Bow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 86,
+              "company": "Stauffer Chemical Co. - Storage & Sludge",
+              "city": "Silver Bow",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 140,
+              "company": "Stone Container Corporation, Paper Mill",
+              "city": "Frenchtown",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 141,
+              "company": "Stone Container Corporation, Paper Mill",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 120,
+              "company": "Sulphuric Acid Plant",
+              "city": "Anaconda",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 206,
+              "company": "Sunnyside Elementary School Gymnasium",
+              "city": "Great Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 83,
+              "company": "Taylor & Knapp Ball Mill",
+              "city": "Philipsburg",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 121,
+              "company": "Ted Hall",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 128,
+              "company": "Texaco, Inc.",
+              "city": "Sunburst",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 55,
+              "company": "Thompson Falls Lumber Com",
+              "city": "Thompson Falls",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 152,
+              "company": "Union Oil",
+              "city": "Cut Bank",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 122,
+              "company": "Union Oil Co",
+              "city": "Cut Bank",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 107,
+              "company": "Union Oil Company",
+              "city": "Out Bank",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 164,
+              "company": "Union Tank Car Co",
+              "city": "Laurel",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 42,
+              "company": "United States Gypsum Co",
+              "city": "Heath",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 123,
+              "company": "University Center",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 207,
+              "company": "University Of Montana, School Of Music",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 108,
+              "company": "Victor Chemical Company",
+              "city": "Butte",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 201,
+              "company": "W.R. Grace - Screening Plant",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 109,
+              "company": "Waldorf Paper Company",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 44,
+              "company": "Waldorf-Harner Paper",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 199,
+              "company": "Waldorf-Hoerner, Paper Products Division",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 87,
+              "company": "Waldorf-Horner Paper Products Co. - Kamyer",
+              "city": "Missoula",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 200,
+              "company": "Western Ranch Supply Company, Front And 14Th Sts.",
+              "city": "Helena",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 10,
+              "company": "Wr Grace",
+              "city": "Libby",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 94,
+              "company": "Wyo-Ben Prod Co Material Supply Division",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 202,
+              "company": "Yellowstone County Courthouse",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 56,
+              "company": "Yellowstone Pine Lumber C",
+              "city": "Belgrade",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 11,
+              "company": "Yellowtail Dam",
+              "city": "Billings",
+              "state": "MT",
+              "visibility": ""
+            },
+            {
+              "id": 12,
+              "company": "Yellowtail Dam",
+              "city": "Hardin",
+              "state": "MT",
+              "visibility": ""
+            }
+           ]
+}
