@@ -42,7 +42,7 @@ class App extends Component {
     this.setState({loading: true});
     let outsideStateSelect = window.location.href.indexOf("state") > -1 ? window.location.href.split('state=')[1] : 'al';
     document.getElementById("state-select").value = outsideStateSelect;
-    fetch(`data/${outsideStateSelect}.json`)
+    fetch(`/data/${outsideStateSelect}.json`)
     .then((res) => res.json())
     .then((data) => {
       this.setState({
@@ -60,7 +60,7 @@ class App extends Component {
       loading: true,
       value: stateSelection.target.value
     });
-    let dataFetchString = `data/${stateSelection.target.value}.json`;
+    let dataFetchString = `/data/${stateSelection.target.value}.json`;
     fetch(dataFetchString)
     .then((res) => res.json())
     .then((data) => {

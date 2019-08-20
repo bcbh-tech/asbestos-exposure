@@ -18,7 +18,8 @@ class FilterBar extends Component {
     
     render () {
         let cityData = this.filteredCityData();
-        let adjustedCityData = this.props.rawAppData.map((a) => ({"value": a.city.toLowerCase(), "label": a.city}));
+        let adjustedCityData = this.props.rawAppData.map((a) => a.city).sort();
+        adjustedCityData = adjustedCityData.map((a) => ({"value": a.toLowerCase(), "label": a}));
         adjustedCityData.unshift({value: '', label: 'All'});
         let cityList = cityData.map((item, index) => <option key={index}>{item}</option>);
         let filteredArr = adjustedCityData.reduce((acc, current) => {
@@ -29,6 +30,13 @@ class FilterBar extends Component {
             return acc;
         }
         }, []);
+        window.addEventListener("resize", function() {
+            if (window.matchMedia("(min-width: 600px)").matches) {
+                console.log("Screen width is at least 500px");
+            } else {
+                console.log("Screen less than 500px");
+            }
+        });
         return (
             <div className="filter-bar-items">
                 <StateSelect 
