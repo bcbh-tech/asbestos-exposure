@@ -7,6 +7,8 @@ import FilterBarLower from './partials/components/filter-bar-lower';
 import {updateCity} from './partials/helper-functions/update-city';
 import {updatePagination} from './partials/helper-functions/update-pagination';
 import {updateSearch} from './partials/helper-functions/update-search';
+import stateList from './partials/components/state-list';
+import handleOutsideStateSelect from './partials/helper-functions/outside-state-select';
 
 
 class App extends Component {
@@ -25,7 +27,8 @@ class App extends Component {
     pagination: 0,
     cityFilter: '',
     loading: false,
-    selectedCity: [{"value": "none", "label": "Select..."}]
+    selectedCity: [{"value": "none", "label": "Select..."}],
+    selectedState: [{"value": "al", "label": "Alabama"}]
   }
 
   ////////////////////////////
@@ -41,7 +44,7 @@ class App extends Component {
   componentDidMount() {
     this.setState({loading: true});
     let outsideStateSelect = window.location.href.indexOf("state") > -1 ? window.location.href.split('state=')[1] : 'al';
-    document.getElementById("state-select").value = outsideStateSelect;
+    if (document.getElementById("state-select")) {document.getElementById("state-select").value = outsideStateSelect;}
     fetch(`/data/${outsideStateSelect}.json`)
     .then((res) => res.json())
     .then((data) => {
@@ -50,17 +53,19 @@ class App extends Component {
         products: data.results,
         filteredProducts: data.results,
         totalPages: Math.ceil(data.results.length / 15),
-        value: outsideStateSelect
+        value: outsideStateSelect,
+        selectedState: [{"value": outsideStateSelect, "label": handleOutsideStateSelect(stateList, outsideStateSelect)}]
       });
     });
   }
 
   updateState = (stateSelection) => {
+    let resizeStateSelection = document.getElementById("state-select") ? stateSelection.target.value : stateSelection.value;
     this.setState({
       loading: true,
-      value: stateSelection.target.value
+      value: resizeStateSelection
     });
-    let dataFetchString = `/data/${stateSelection.target.value}.json`;
+    let dataFetchString = `/data/${resizeStateSelection}.json`;
     fetch(dataFetchString)
     .then((res) => res.json())
     .then((data) => {
@@ -72,7 +77,8 @@ class App extends Component {
         cityFilter: '',
         pagination: 0,
         totalPages: Math.ceil(data.results.length / 15),
-        selectedCity: [{"value": "none", "label": "Select..."}]
+        selectedCity: [{"value": "none", "label": "Select..."}],
+        selectedState: [{"value": resizeStateSelection, "label": handleOutsideStateSelect(stateList, resizeStateSelection)}]
       });
     });
   }
@@ -142,6 +148,7 @@ class App extends Component {
               searchList={this.handleSearch}
               filter={this.state.filter} 
               rawAppData={this.state.products}
+              selectedState={this.state.selectedState}
             />
           </div>
           <FilterBarLower />
