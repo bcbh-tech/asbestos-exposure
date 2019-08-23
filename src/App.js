@@ -1,14 +1,24 @@
 import React, { Component } from 'react';
 import './App.css';
+
+////////////////////////////
+// Import components
+////////////////////////////
+
 import Pagination from './partials/components/pagination';
 import FilterBar from './partials/components/filter-bar';
 import ItemList from './partials/components/item-list';
 import FilterBarLower from './partials/components/filter-bar-lower';
+
+////////////////////////////
+// Import helper functions
+////////////////////////////
+
 import {updateCity} from './partials/helper-functions/update-city';
 import {updatePagination} from './partials/helper-functions/update-pagination';
 import {updateSearch} from './partials/helper-functions/update-search';
+import {handleOutsideStateSelect} from './partials/helper-functions/outside-state-select';
 import stateList from './partials/components/state-list';
-import handleOutsideStateSelect from './partials/helper-functions/outside-state-select';
 
 
 class App extends Component {
@@ -149,6 +159,7 @@ class App extends Component {
               filter={this.state.filter} 
               rawAppData={this.state.products}
               selectedState={this.state.selectedState}
+              stateList={stateList}
             />
           </div>
           <FilterBarLower />
@@ -169,7 +180,7 @@ class App extends Component {
 }
 
 ////////////////////////////
-  // End render app
-  ////////////////////////////
+// End render app
+////////////////////////////
 
 export default App;
