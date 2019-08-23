@@ -112,14 +112,17 @@ class App extends Component {
   };
 
   handleCityChange = (event) => {
-    let filteredList = updateCity(event, this.state.products);
+    let mobileEvent = document.getElementById('city-select') ? document.getElementById('city-select') : false;
+    let eventValue = mobileEvent ? event.target.value : event.value;
+    let eventLabel = mobileEvent ? mobileEvent.options[mobileEvent.selectedIndex].text : event.label;
+    let filteredList = updateCity(eventValue, eventLabel, this.state.products);
     this.setState({
       filteredProducts: filteredList,
       filter: '',
-      cityFilter: event.label,
+      cityFilter: eventLabel,
       pagination: 0,
       totalPages: Math.ceil(filteredList.length / 15),
-      selectedCity: [{"value": event.value, "label": event.label}]
+      selectedCity: [{"value": eventValue, "label": eventLabel}]
     });
   }
   

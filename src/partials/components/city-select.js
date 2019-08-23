@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
 
-class StateSelect extends Component {
+class CitySelect extends Component {
     render () {
         return (
-            <select id="state-select" onChange={this.props.updateState}>
-                {this.props.stateList.map((item) => (
+            <select id="city-select" onChange={this.props.updateCity}>
+                {this.props.filteredArray.map((item) => (
                     <option key={item.value} value={item.value}>{item.label}</option>
                 ))}
             </select>
@@ -12,4 +12,4 @@ class StateSelect extends Component {
     }
 }
 
-export default StateSelect;
+export default CitySelect;

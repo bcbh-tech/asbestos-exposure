@@ -1,9 +1,9 @@
-export function updateCity (event, productsList) {
+export function updateCity (eventValue, eventLabel, productsList) {
     let filteredSearchList = [];
-    if (event.value !== '') {
+    if (eventValue !== '') {
     let arrayLength = productsList.length;
     for (var i = 0; i < arrayLength; i++) {
-        if (productsList[i].city.toLowerCase() === event.label.toLowerCase()) {
+        if (productsList[i].city.toLowerCase() === eventLabel.toLowerCase()) {
         filteredSearchList.push(productsList[i]);
         }
     }

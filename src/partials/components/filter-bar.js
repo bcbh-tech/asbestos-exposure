@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import Select from 'react-select';
 import StateSelect from './select-state';
+import CitySelect from './city-select';
 import {filteredCityData} from '../helper-functions/filter-city-data'
 
 class FilterBar extends Component {
@@ -21,7 +22,7 @@ class FilterBar extends Component {
         ////////////////////////////
 
         var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-        if (viewportWidth > 640) {
+        if (viewportWidth > 800) {
             return (
                 <div className="filter-bar-items">
                     <Select
@@ -54,14 +55,13 @@ class FilterBar extends Component {
             return (
                 <div className="filter-bar-items">
                     <StateSelect
-                    updateState = {this.props.updateState} 
+                    updateState={this.props.updateState}
+                    stateList={this.props.stateList}
                     />
-                    <Select 
-                    onChange={this.props.updateCity}
-                    options={filteredArr} 
-                    value={this.props.selectedCity}
-                    >
-                    </Select>
+                    <CitySelect
+                    filteredArray={filteredArr}
+                    updateCity={this.props.updateCity}
+                    />
                     <input
                     placeholder="Search for..."
                     onChange={this.props.searchList} value={this.props.filter}
