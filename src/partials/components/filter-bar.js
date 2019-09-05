@@ -22,7 +22,7 @@ class FilterBar extends Component {
         ////////////////////////////
 
         var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-        if (viewportWidth > 800) {
+        if (viewportWidth > 700) {
             return (
                 <div className="filter-bar-items">
                     <Select
