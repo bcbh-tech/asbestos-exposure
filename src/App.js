@@ -9,6 +9,7 @@ import Pagination from './partials/components/pagination';
 import FilterBar from './partials/components/filter-bar';
 import ItemList from './partials/components/item-list';
 import FilterBarLower from './partials/components/filter-bar-lower';
+import FilterBarSelect from './partials/components/filter-bar-select';
 
 ////////////////////////////
 // Import helper functions
@@ -93,6 +94,29 @@ class App extends Component {
     });
   }
 
+  updateShips = () => {
+    this.setState({
+      loading: true,
+      value: ''
+    });
+    let dataFetchString = '/data/ships.json';
+    fetch(dataFetchString)
+    .then((res) => res.json())
+    .then((data) => {
+      this.setState({
+        loading: false,
+        products: data.results,
+        filteredProducts: data.results,
+        filter: '',
+        cityFilter: '',
+        pagination: 0,
+        totalPages: Math.ceil(data.results.length / 15),
+        selectedCity: [{"value": "none", "label": "Select..."}],
+        selectedState: [{"value": 'select', "label": 'Select...'}]
+      });
+    });
+  }
+
   ////////////////////////////
   // End load data
   ////////////////////////////
@@ -165,6 +189,9 @@ class App extends Component {
               stateList={stateList}
             />
           </div>
+          <FilterBarSelect
+            updateShips={this.updateShips}
+          />
           <FilterBarLower />
         </div>
         <ItemList 

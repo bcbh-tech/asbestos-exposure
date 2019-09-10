@@ -1,4 +1,5 @@
 let stateList = [
+    {value: 'all', label: 'All'},
     {value: 'al', label: 'Alabama'},
     {value: 'ak', label: 'Alaska'},
     {value: 'az', label: 'Arizona'},
