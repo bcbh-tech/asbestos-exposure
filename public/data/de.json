@@ -1,3595 +1,1082 @@
 {
     "results": [
       {
-        "id": 40,
-        "company": "Abex Corporation, Amsco Division",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 94,
-        "company": "Air Products, Tidewater",
-        "city": "Reybold Station",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 214,
-        "company": "Air Reduction Co",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 215,
-        "company": "Air Reduction Co - Air Compressor Bldg",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 216,
-        "company": "Air Reduction Co - Air Separation Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 217,
-        "company": "Air Reduction Co Inc",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 19,
-        "company": "Air Reduction Company, Air Separation Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 218,
-        "company": "Air Reduction Sales Co",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 143,
-        "company": "Albert J Myer",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 330,
-        "company": "Allied Chemical",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 30,
-        "company": "Allied Chemical - Chlorine Unit",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 31,
-        "company": "Allied Chemical - Soap Unit",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 317,
-        "company": "Allied Chemical & Dye Corporation",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 219,
-        "company": "Allied Chemical Corp.",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 650,
-        "company": "Allied Chemical Corp.",
-        "city": "North Claymont",
-        "state": "DE",
-        "visibility": "visible"
-      },
-      {
-        "id": 220,
-        "company": "Allied Chemical Corp. - Delaware Works Project - Nbr 16346",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 20,
-        "company": "Allied Chemical Corporation",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 41,
-        "company": "Allied Chemical Corporation",
-        "city": "North Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 420,
-        "company": "Allied Chemical Corporation - Acid Area",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 421,
-        "company": "Allied Chemical Corporation - Chlorine Unit Area",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 400,
-        "company": "Allied Chemical Corporation - Delaware Valley Works",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 422,
-        "company": "Allied Chemical Corporation - Heaters",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 423,
-        "company": "Allied Chemical Corporation - Reactors",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 424,
-        "company": "Allied Chemical Corporation - Sulphur Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 289,
-        "company": "Allied Chemical, B-Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 290,
-        "company": "Allied Chemical, Chlorine Unit",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 291,
-        "company": "Allied Chemical, Soap Unit",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 116,
-        "company": "Allied Chemicla Corp Div",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 152,
-        "company": "Allied Kid Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 117,
-        "company": "Allied Steel Products Inc",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 331,
-        "company": "Amalgamated Leather",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 44,
-        "company": "American Brake Shoe Company",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 76,
-        "company": "American Brake, Amsco Division",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 221,
-        "company": "American Life Insurance Co Bldg 1105 North Market Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 77,
-        "company": "American Manganese",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 45,
-        "company": "American Manganese Steel Division",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 657,
-        "company": "American Oil",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 332,
-        "company": "Ametec Haveg (Textiles)",
-        "city": "Marshallton",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 333,
-        "company": "Ametec Haveg (Textiles)",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
         "id": 1,
-        "company": "Amoco Chemical Company",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 132,
-        "company": "Amoco Chemical Corporation",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 182,
-        "company": "Archmere Academy - Philadelphia Pike",
+        "company": "Phoenix City Steel Foundry",
         "city": "Claymont",
         "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 334,
-        "company": "Atlas Chemical",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 133,
-        "company": "Atlas Chemical Industries - Atlas Point Plant",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 222,
-        "company": "Atlas Chemical Industries Inc - Chemical Eng Lab",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
         "id": 2,
-        "company": "Atlas Chemical Industries, Atlas Point Plant",
-        "city": "New Castle",
+        "company": "Dover Air Force Base",
+        "city": "Dover",
         "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 623,
-        "company": "Atlas Chemical Job",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 223,
-        "company": "Atlas Chemical Prod Corp",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 224,
-        "company": "Atlas Powder Co - Hydrogen Plant",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 78,
-        "company": "Atlas Powder Company",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 79,
-        "company": "Atlas Powder Company",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 651,
-        "company": "Atlas Powder Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 225,
-        "company": "Atlas Powder Company - Chemical Eng Lab - Atlas Point",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 122,
-        "company": "Atlas Powder Company - Hydrogen Plant",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
         "id": 3,
-        "company": "Atlas Powder Company, Hydrogen Plant",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 80,
-        "company": "Avison Corporation",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 21,
-        "company": "Avisun",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 153,
-        "company": "Avisun Corporation",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 479,
-        "company": "Avisun Corporation Plant",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 480,
-        "company": "Avisun Corporation Plant - Boiler Area",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 481,
-        "company": "Avisun Corporation Plant - Heat Exchanges",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 482,
-        "company": "Avisun Corporation Plant - High Line Area",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 483,
-        "company": "Avisun Corporation Plant - Hoppers",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 484,
-        "company": "Avisun Corporation Plant - Ph",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 485,
-        "company": "Avisun Corporation Plant - Pump Work",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 486,
-        "company": "Avisun Corporation Plant - Solvent Recovery",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 487,
-        "company": "Avisun Corporation Plant - Storage Tank Area",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 488,
-        "company": "Avisun Corporation Plant - Towers",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 489,
-        "company": "Avisun Corporation Plant - Vessels",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 490,
-        "company": "Avisun Corporation Plant - Warehouse",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 401,
-        "company": "Baker & Adams Chemical - Claymont Chemical Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 336,
-        "company": "Bancroft Mills",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 637,
-        "company": "Bayhealth Kent General Hospital",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 658,
-        "company": "Beatty Construction",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 46,
-        "company": "Bestwall Gypsum Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 337,
-        "company": "Bravo Shipyard",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 96,
-        "company": "Brittingham Du Pont Estate",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 118,
-        "company": "Cape May Lewes Ferry",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 97,
-        "company": "Carpenter Du Pont Estate",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 98,
-        "company": "Carrcroft",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 638,
-        "company": "Carvel State Office Building - French Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 227,
-        "company": "Caterpillar Tractor Co.",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 659,
-        "company": "Charles Beatty Drywall",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 47,
-        "company": "Chas Russo Company",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 228,
-        "company": "Chestnut Run Location",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 378,
-        "company": "Chrysler",
+        "company": "Dupont Nemours Building",
         "city": "Newark",
         "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 48,
-        "company": "Chrysler Corporation",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 411,
-        "company": "Chrysler Plant",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 338,
-        "company": "Ciba-Geigy",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 99,
-        "company": "Collins Park",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 165,
-        "company": "Continental American Life Insurance Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 229,
-        "company": "Continental Diamond Fibre",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 81,
-        "company": "Continental-Diamond Fibre",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 639,
-        "company": "Courthouse And Customs House - Market Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 198,
-        "company": "D,P&L. Delmarva Power And Light",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 339,
-        "company": "Daniel Herrman Courthouse",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 660,
-        "company": "Daniels Construction",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 119,
-        "company": "Deemer Steel Casting Comp",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 49,
-        "company": "Deener Steel Castings Company",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 340,
-        "company": "Del Steel",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 50,
-        "company": "Del Val Asphalt Corporation",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 185,
-        "company": "Del-Val Asphalt Corporation",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 144,
-        "company": "Delaware",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 341,
-        "company": "Delaware Bank & Trust",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 100,
-        "company": "Delaware Du Pont Estate",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 183,
-        "company": "Delaware Hospital",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 137,
-        "company": "Delaware Hospital - Laundry",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
         "id": 4,
-        "company": "Delaware Hospital, Laundry",
-        "city": "Wilmington",
+        "company": "Dupont Pigment Plant",
+        "city": "Newport",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 184,
-        "company": "Delaware Insulation Co",
-        "city": "Wilmington",
+        "id": 5,
+        "company": "Dupont Chemical Plant",
+        "city": "Seaford",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 277,
-        "company": "Delaware Insulation Co.",
+        "id": 6,
+        "company": "Dupont \"Edge Moor\" Chemical Plant",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 138,
-        "company": "Delaware Power & Light",
+        "id": 7,
+        "company": "Dupont Complex/Brandywine Building",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 544,
-        "company": "Delaware Power & Light",
+        "id": 8,
+        "company": "Dupont Experimental Station",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": "visible"
+      },
+      {
+        "id": 9,
+        "company": "Dupont Nemours Building",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Getty Oil Refinery",
         "city": "Delaware City",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 293,
-        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 2",
+        "id": 11,
+        "company": "American Oil",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 294,
-        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 3",
+        "id": 12,
+        "company": "Beatty Construction",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 296,
-        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 4",
+        "id": 13,
+        "company": "Charles Beatty Drywall",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 32,
-        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 5",
+        "id": 14,
+        "company": "Daniels Construction",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 33,
-        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 6",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 406,
-        "company": "Delaware Power & Light - Edgemoor Plant - Unit 3",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 407,
-        "company": "Delaware Power & Light - Edgemoor Plant - Unit 4",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 408,
-        "company": "Delaware Power & Light - Edgemoor Plant - Unit 5",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 231,
-        "company": "Delaware Power & Light Company - Edge Moor Power Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 233,
-        "company": "Delaware Power & Light Company - Indian River Power Station",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 661,
+        "id": 15,
         "company": "Delaware Power Light",
         "city": "Wilmington",
         "state": "DE",
-        "visibility": ""
+        "visibility": "visible"
       },
       {
-        "id": 379,
-        "company": "Delaware State Hospital",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 101,
-        "company": "Delaware Steel",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 662,
+        "id": 16,
         "company": "Delaware Steel Fabricating",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 235,
-        "company": "Delaware Works",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 236,
-        "company": "Delaware Works Wilimington Tpk",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 640,
-        "company": "Delmarva Building - Martin Luther King Blvd",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 410,
-        "company": "Delmarva Power - Indian River Power Station",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 149,
-        "company": "Delmarva Power & Light",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 124,
-        "company": "Delmarva Power & Light - Delaware City Station - River Road",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 139,
-        "company": "Delmarva Power & Light - Edgemoore Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 275,
-        "company": "Delmarva Power & Light Co. - Edge Moor Energy Center - Unit 5",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 320,
-        "company": "Delmarva Power & Light Co. - Edge Moor Power Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 6,
-        "company": "Delmarva Power & Light Company - Edge Moor Power Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 166,
-        "company": "Delmarva Power & Light Company - Edge Moor Power Plant - Ge Turbines And Generators",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 238,
-        "company": "Delmarva Power & Light Company - Indian River Power Station",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 239,
-        "company": "Delmarva Power & Light Company - Indian River Power Station - Unit 3",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 5,
-        "company": "Delmarva Power And Light - Delaware City 10 Station",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 476,
-        "company": "Delmarva Power And Light - Indian River Plant",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 477,
-        "company": "Delmarva Power And Light - Indian River Plant - Breeching Area",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 467,
-        "company": "Delmarva Power And Light - Indian River Plant - Turbine Area",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 478,
-        "company": "Delmarva Power And Light - Indian River Plant - Unit 3",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 468,
-        "company": "Delmarva Power And Light - Indian River Plant - Unit 4 Turbine",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 469,
-        "company": "Delmarva Power And Light - Indian River Plant - Unit 5",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 470,
-        "company": "Delmarva Power And Light - Indian River Plant - Unit 5 Boilers",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 471,
-        "company": "Delmarva Power And Light - Indian River Plant - Unit 5 Breechings And Turbines",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 154,
-        "company": "Desco Corporation",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 186,
-        "company": "Diamond Alkilai",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 34,
-        "company": "Diamond Shamrock",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 429,
-        "company": "Diamond Shamrock - Ammonia",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 430,
-        "company": "Diamond Shamrock - Cell Plant Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 431,
-        "company": "Diamond Shamrock - Pvc Plant",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 432,
-        "company": "Diamond Shamrock - Storage Tanks",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 51,
-        "company": "Diamond Shamrock Corporation",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 155,
-        "company": "Dorr Oliver Chemical Plant",
-        "city": "Lewes",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 624,
-        "company": "Dover A.F.B., Oic Air Freight Terminal",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 656,
-        "company": "Dover Air Force Base",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 625,
-        "company": "Dover Bank",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 156,
-        "company": "Dp & L",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 35,
-        "company": "Dp&L Powerhouse - Indian River",
-        "city": "Millsboro",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 344,
-        "company": "Dravo Shipyard",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 664,
+        "id": 17,
         "company": "Dry Waller Local Union 100",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 157,
-        "company": "Dupont",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 167,
-        "company": "Dupont",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 168,
-        "company": "Dupont - 501 Building",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 169,
-        "company": "Dupont - Auto Claves",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 170,
-        "company": "Dupont - Bcf Project",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 36,
-        "company": "Dupont - Brandywine Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 300,
-        "company": "Dupont - Chestnut Run",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 37,
-        "company": "Dupont - Christiana Lab",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 171,
-        "company": "Dupont - Dowtherm",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 172,
-        "company": "Dupont - Draw Twist",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 111,
-        "company": "Dupont - Experimental Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 173,
-        "company": "Dupont - Fab Shop",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 534,
-        "company": "Dupont - Fab Shop",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 501,
-        "company": "Dupont - Louviers Office Building",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 174,
-        "company": "Dupont - Material Warehouse",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 414,
-        "company": "Dupont - Newport Site",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 175,
-        "company": "Dupont - Powerhouse",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 176,
-        "company": "Dupont - Spinning Room",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 303,
-        "company": "Dupont - White Building",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 304,
-        "company": "Dupont - Z Area",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 177,
-        "company": "Dupont - Zero Twist",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 241,
-        "company": "Dupont – Engineering Service Division - Engineering Test Center – Louviers",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 665,
-        "company": "Dupont \"Edge Moor\" Chemical Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 507,
-        "company": "Dupont 501 Building",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 508,
-        "company": "Dupont 501 Building - 1St Floor",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 509,
-        "company": "Dupont 501 Building - 2nd Floor",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 510,
-        "company": "Dupont 501 Building - 3Rd Floor",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 511,
-        "company": "Dupont 501 Building - 4Th Floor",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 512,
-        "company": "Dupont 501 Building - Coning Section",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 513,
-        "company": "Dupont 501 Building - Dow Boilers",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 514,
-        "company": "Dupont 501 Building - Fitters Shop",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 515,
-        "company": "Dupont 501 Building - Insulator Shops",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 516,
-        "company": "Dupont 501 Building - Shop",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 535,
-        "company": "Dupont Brandywine Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 536,
-        "company": "Dupont Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 178,
-        "company": "Dupont Building - Laird Offices",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 179,
-        "company": "Dupont Building - Offices",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 647,
-        "company": "Dupont Building - Tatnall Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 200,
-        "company": "Dupont Chemical Plant",
-        "city": "Carneys Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 666,
-        "company": "Dupont Chemical Plant",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 667,
-        "company": "Dupont Complex/Brandywine Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 409,
-        "company": "Dupont Edgemoor Plant",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 472,
-        "company": "Dupont Edgemoor Plant - Acid Area",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 473,
-        "company": "Dupont Edgemoor Plant - Tank Farm",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 474,
-        "company": "Dupont Edgemoor Plant - White Building",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 475,
-        "company": "Dupont Edgemoor Plant - Z-Process Area",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 412,
-        "company": "Dupont Engineering Test Center",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 242,
-        "company": "Dupont Experimental Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 245,
-        "company": "Dupont Experimental Station - Film Lab",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 247,
-        "company": "Dupont Experimental Station - Lox 16636",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 246,
-        "company": "Dupont Experimental Station - Lox 25014",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 537,
-        "company": "Dupont Hotel",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 201,
-        "company": "Dupont Mansion",
-        "city": "North Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 538,
-        "company": "Dupont Nemours Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 669,
-        "company": "Dupont Nemours Building",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 641,
-        "company": "Dupont Nemours Building - Orange Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 503,
-        "company": "Dupont Newport Plant - Blue Room",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 504,
-        "company": "Dupont Newport Plant - Green Room",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 505,
-        "company": "Dupont Newport Plant - Red Room",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 506,
-        "company": "Dupont Newport Plant - White Building",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 671,
-        "company": "Dupont Pigment Plant",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 158,
-        "company": "Dupont Plant",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 159,
-        "company": "Dupont Seaford Nylon Plant",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 415,
-        "company": "Dupont Seaford Plant",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 517,
-        "company": "Dupont Seaford Plant - Bcf Project",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 518,
-        "company": "Dupont Seaford Plant - Boiler Area",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 519,
-        "company": "Dupont Seaford Plant - Dowtherm Area",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 520,
-        "company": "Dupont Seaford Plant - Draw Twist",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 521,
-        "company": "Dupont Seaford Plant - East Dow Condensate",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 522,
-        "company": "Dupont Seaford Plant - Heat Exchanger",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 523,
-        "company": "Dupont Seaford Plant - Insulators Fabrication Shop",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 524,
-        "company": "Dupont Seaford Plant - Inter Gas Building",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 525,
-        "company": "Dupont Seaford Plant - Lab",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 526,
-        "company": "Dupont Seaford Plant - Lines",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 527,
-        "company": "Dupont Seaford Plant - N-16 Area",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 528,
-        "company": "Dupont Seaford Plant - Ph",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 529,
-        "company": "Dupont Seaford Plant - Pipefitters Shop",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 530,
-        "company": "Dupont Seaford Plant - Polymer Area",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 531,
-        "company": "Dupont Seaford Plant - Powerhouse",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 532,
-        "company": "Dupont Seaford Plant - Spinning Area",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 120,
-        "company": "E I Dupont De Nemours",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 136,
-        "company": "E I Dupont De Nemours - Wilmington Shops",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 187,
-        "company": "E I Dupont De Nemours & Co",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 188,
-        "company": "E I Dupont De Nemours & Co",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 189,
-        "company": "E I Dupont De Nemours & Co",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 150,
-        "company": "E I Dupont Denemours",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 278,
-        "company": "E. I. Dupont De Nemours & Co.",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 279,
-        "company": "E. I. Dupont De Nemours & Co.",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 52,
-        "company": "E.I. Du Pont De Nemours & Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 53,
-        "company": "E.I. Du Pont De Nemours & Company",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 56,
-        "company": "E.I. Du Pont De Nemours & Company",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 58,
-        "company": "E.I. Du Pont De Nemours & Company",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 84,
-        "company": "E.I. Du Pont De Nemours & Company",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 393,
-        "company": "E.I. Du Pont De Nemours & Company Engineering Test Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 324,
-        "company": "E.I. Du Pont De Nemours & Company, Chestnut Run Plant, Experimental Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 348,
-        "company": "E.I. Du Pont De Nemours & Company, Country Club",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 349,
-        "company": "E.I. Du Pont De Nemours & Company, De Nemours",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 350,
-        "company": "E.I. Du Pont De Nemours & Company, Experimental Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 351,
-        "company": "E.I. Du Pont De Nemours & Company, Hotel",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 325,
-        "company": "E.I. Du Pont De Nemours & Company, Louviers Plant",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 322,
-        "company": "E.I. Du Pont De Nemours & Company, Plant",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 323,
-        "company": "E.I. Du Pont De Nemours & Company, Plant, Krebs Newport Plant",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 652,
-        "company": "E.I. Dupont De Nemours & Co.",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 23,
-        "company": "E.I. Dupont De Nemours And Company",
-        "city": "Seaford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 24,
-        "company": "E.I. Dupont De Nemours And Company",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 22,
-        "company": "E.I. Dupont De Nemours And Company, Cooling Tower/Blur Room",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 7,
-        "company": "E.I. Dupont De Nemours And Company, Wilmington Shops",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 282,
-        "company": "E.I. Dupont Denemours & Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 283,
-        "company": "E.I. Dupont Denemours & Company",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 180,
-        "company": "Eastern Shore Public Service - Kent Substation",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 209,
-        "company": "Edgemoor",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 352,
-        "company": "Electric Rubber And Hose Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 353,
-        "company": "Elsmere Manor",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 240,
-        "company": "Engineering Test Center",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 249,
-        "company": "Film Lab. - Experimental Station",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 59,
-        "company": "Fish Products Company",
-        "city": "Lewes",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 380,
-        "company": "Fmc Corporation",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 354,
-        "company": "Forbes Steel And Wire",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 355,
-        "company": "General Chemical",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 60,
-        "company": "General Chemical Division",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 25,
-        "company": "General Foods",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 646,
-        "company": "General Foods - Chocolate/Dream Whip/Jello/Syrup Division",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 85,
-        "company": "General Foods Corporation",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 250,
-        "company": "General Foods Plant",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 463,
-        "company": "General Foods Plant - Chocolate Area",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 464,
-        "company": "General Foods Plant - Cocoa Butter Area",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 465,
-        "company": "General Foods Plant - Dream Whip Tower",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 466,
-        "company": "General Foods Plant - Jell-O Area",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 26,
-        "company": "General Motors",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 160,
-        "company": "General Motors Assembly Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 539,
-        "company": "General Motors Assembly Plant - Oven Area",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 540,
-        "company": "General Motors Assembly Plant - Paint Area",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 86,
-        "company": "George & Lynch Company",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 357,
-        "company": "Georgetown Airport",
-        "city": "Georgetown",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 381,
-        "company": "Georgia Pacific",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 102,
-        "company": "Getty",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 288,
-        "company": "Getty - Coker, Cracker",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 287,
-        "company": "Getty - Sulphur Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 39,
-        "company": "Getty Oil",
-        "city": "Reybold",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 161,
-        "company": "Getty Oil",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 433,
-        "company": "Getty Oil - C. O. Boilers",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 434,
-        "company": "Getty Oil - Coker Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 435,
-        "company": "Getty Oil - Cracker",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 404,
-        "company": "Getty Oil - Delaware City Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 436,
-        "company": "Getty Oil - Frozen Earth Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 437,
-        "company": "Getty Oil - Gas Plant",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 438,
-        "company": "Getty Oil - Hydrocracker",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 439,
-        "company": "Getty Oil - Murox Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 440,
-        "company": "Getty Oil - Naphthalene Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 441,
-        "company": "Getty Oil - Oil Coker And Cracker Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 442,
-        "company": "Getty Oil - Oil Naphthalene Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 443,
-        "company": "Getty Oil - Oil Oxo Alcohol Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 444,
-        "company": "Getty Oil - Oil Poly Alky",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 445,
-        "company": "Getty Oil - Oil Precipitator",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 446,
-        "company": "Getty Oil - Oil Reformer Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 447,
-        "company": "Getty Oil - Oil Sulphur Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 448,
-        "company": "Getty Oil - Oil Tank Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 449,
-        "company": "Getty Oil - Oil Zone 1",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 450,
-        "company": "Getty Oil - Oil Zone 2",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 451,
-        "company": "Getty Oil - Oil Zone 3",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 251,
-        "company": "Getty Oil Co",
-        "city": "Reybold",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 207,
-        "company": "Getty Oil Co.",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 190,
-        "company": "Getty Oil Company",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 125,
-        "company": "Getty Oil Company - Delaware Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 8,
-        "company": "Getty Oil Company, Delaware Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 112,
-        "company": "Getty Oil Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 642,
-        "company": "Government Building - King Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 61,
-        "company": "Graver Tank & Manufacturing Company",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 359,
-        "company": "Greenwood High School",
-        "city": "Greenwood",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 360,
-        "company": "Gronomeyers",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 145,
-        "company": "H.S. Falk",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 252,
-        "company": "Haskill Lab",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 204,
-        "company": "Haveg Corp.",
-        "city": "Marshallton",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 315,
-        "company": "Haveg Corporation",
-        "city": "Marshallton",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 88,
-        "company": "Haveg Industries",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 191,
-        "company": "Hercules Incorporated",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 653,
-        "company": "Hercules Powder Co.",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 89,
-        "company": "Hercules Powder Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 192,
-        "company": "Hercules Research Center",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 140,
-        "company": "Hercules Research Center - Route 48 West",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 9,
-        "company": "Hercules Research Center, Rte. 48 West",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 181,
-        "company": "Hercules Towers",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 126,
-        "company": "Hoechst Polymer Corporation - School House Road",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 10,
-        "company": "Hoechst Polymer Corporation, School House Rd.",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 11,
-        "company": "I.C.I. America, Incorporated, Chemical Engineering Building L-30",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 27,
-        "company": "I.C.I. America, Incorporated, Molasses Unit",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 413,
-        "company": "Ici - Atlas Point Chemical Plant",
-        "city": "Newcastle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 491,
-        "company": "Ici - Atlas Point Chemical Plant - Boiler Room",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 492,
-        "company": "Ici - Atlas Point Chemical Plant - Fan Room",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 493,
-        "company": "Ici - Atlas Point Chemical Plant - High Lines",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 494,
-        "company": "Ici - Atlas Point Chemical Plant - Main Stream",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 495,
-        "company": "Ici - Atlas Point Chemical Plant - Mechanical Room",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 496,
-        "company": "Ici - Atlas Point Chemical Plant - Molasses Unit",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 497,
-        "company": "Ici - Atlas Point Chemical Plant - Office Building",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 498,
-        "company": "Ici - Atlas Point Chemical Plant - Tank Farm",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 499,
-        "company": "Ici - Atlas Point Chemical Plant - Towers",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 500,
-        "company": "Ici - Atlas Point Chemical Plant - Vessels",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 327,
-        "company": "Ici / Atlas",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 134,
-        "company": "Ici America - Atlas Point Plant - Chemical Engineering Building L-30",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 362,
-        "company": "Ici Americas",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 305,
-        "company": "Ici Atlas Point",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 162,
-        "company": "Indian River Powerhouse",
-        "city": "Milford",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 626,
-        "company": "Industrial Trust Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 363,
-        "company": "International Latex",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 62,
-        "company": "Joseph Bancroft & Son Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 383,
-        "company": "Kiamensi Gardens",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 103,
-        "company": "Kimensi Gardens",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 384,
-        "company": "Knapp Mills",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 418,
-        "company": "Knapp Mills Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 280,
-        "company": "Kraft Foods, Inc.",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 253,
-        "company": "Krebs Pigment & Chemical Company - Plant",
-        "city": "Newport",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 255,
-        "company": "L'Air Liquide - Air Reduction Co. - Air Separation Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 63,
-        "company": "Libby Mcneil & Libby",
-        "city": "Wyoming",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 104,
-        "company": "Llangollen Estates",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 385,
-        "company": "Llangollen Estates, Shipley Heights",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 364,
-        "company": "Ludlow Manufacturing",
-        "city": "Edgemoor",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 105,
-        "company": "Lummont Du Pont Estate",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 281,
-        "company": "M. W. Kellogg Co.",
-        "city": "Atlas Point",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 106,
-        "company": "Manor Park",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 386,
-        "company": "Manor Park, Kiamensi Gardens",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 64,
-        "company": "Marine Transport",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 130,
+        "id": 18,
         "company": "Mckee Run Generating Station",
         "city": "Dover",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 387,
-        "company": "National Vulcanized Fiber",
-        "city": "Yorklyn",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 146,
-        "company": "Neptune",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 643,
-        "company": "New Castle Airport",
+        "id": 19,
+        "company": "Amoco Chemical Company",
         "city": "New Castle",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 314,
-        "company": "New Castle County Correctional Institution",
-        "city": "Smyrna",
+        "id": 20,
+        "company": "Atlas Chemical Industries, Atlas Point Plant",
+        "city": "New Castle",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 256,
-        "company": "New Central Office Bldg",
-        "city": "Newark",
+        "id": 21,
+        "company": "Atlas Powder Company, Hydrogen Plant",
+        "city": "Atlas Point",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 257,
-        "company": "New Dover High School",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 121,
-        "company": "North American Smelting C",
+        "id": 22,
+        "company": "Delaware Hospital, Laundry",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 65,
-        "company": "North American Smelting Co",
+        "id": 23,
+        "company": "Delmarva Power And Light - Delaware City 10 Station",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 24,
+        "company": "Delmarva Power & Light Company - Edge Moor Power Plant",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 258,
-        "company": "O A Newton & Son Co - Feed Mill",
-        "city": "Bridgeville",
+        "id": 25,
+        "company": "E.I. Dupont De Nemours And Company, Wilmington Shops",
+        "city": "Newport",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 211,
-        "company": "Oceanographic Research Site",
-        "city": "Lewes",
+        "id": 26,
+        "company": "Getty Oil Company, Delaware Refinery",
+        "city": "Delaware City",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 259,
-        "company": "Old Bravo Shipyard - Test Center",
+        "id": 27,
+        "company": "Hercules Research Center, Rte. 48 West",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 644,
-        "company": "Old County Courthouse Building - King Street",
-        "city": "Wilmington",
+        "id": 28,
+        "company": "Hoechst Polymer Corporation, School House Rd.",
+        "city": "Delaware City",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 107,
-        "company": "Penn Acres",
-        "city": "New Castle County",
+        "id": 29,
+        "company": "I.C.I. America, Incorporated, Chemical Engineering Building L-30",
+        "city": "Atlas Point",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 388,
-        "company": "Penn Acres, Carrcroft, Collins Park",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 114,
-        "company": "Pennsylvania Railroad",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 328,
-        "company": "Pennsylvania Railroad Shops",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 673,
-        "company": "Phoenix City Steel Foundry",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 151,
-        "company": "Phoenix Steel",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 307,
-        "company": "Phoenix Steel - Central Pipe Line",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 402,
-        "company": "Phoenix Steel - Claymont Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 308,
-        "company": "Phoenix Steel - Electric Furnace/Millside",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 309,
-        "company": "Phoenix Steel - Riverside",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 66,
-        "company": "Phoenix Steel Corp",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 123,
-        "company": "Phoenix Steel Corporation - New Castle County",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 12,
+        "id": 30,
         "company": "Phoenix Steel Corporation, New Castle County",
         "city": "Claymont",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 147,
-        "company": "Pocahontas",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 90,
-        "company": "Polychem Division",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 260,
-        "company": "Power Station Project",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 648,
-        "company": "Public Safety Building - Walnut Street",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 163,
-        "company": "Pusey & Jones Shipbuilding",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 365,
-        "company": "Pusey & Jones Shipyard",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 67,
-        "company": "Ralston Purina Co",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 366,
-        "company": "Red Mill Apartments",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 419,
-        "company": "Reichhold Chemical Plant",
-        "city": "Cheswold",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 389,
-        "company": "Reichold Chemical",
-        "city": "Cheswold",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 193,
-        "company": "Riggs Distiller & Co",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 13,
+        "id": 31,
         "company": "Riverside Hospital",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 91,
-        "company": "S.S. Drepanon",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 367,
-        "company": "Sampson Naval Shipyard",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 310,
-        "company": "Scott Paper",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 14,
+        "id": 32,
         "company": "Scott Paper Company",
         "city": "Dover",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 368,
-        "company": "Shellhorn And Hill Incorporated",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 108,
-        "company": "Shipley Heights",
-        "city": "New Castle County",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 194,
-        "company": "Shock And Fletcher Insulation",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 311,
-        "company": "Smyrna Prison",
-        "city": "Smyrna",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 369,
-        "company": "St. Francis Hospital",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 627,
-        "company": "State Board Of Health Building",
-        "city": "Dover",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 261,
-        "company": "State Correctional Institute",
-        "city": "Smyrna",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 109,
-        "company": "Stauffer Chemical",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 452,
-        "company": "Stauffer Chemical - Cell Building",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 453,
-        "company": "Stauffer Chemical - Cs-2 Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 454,
-        "company": "Stauffer Chemical - Dryers",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 455,
-        "company": "Stauffer Chemical - Heaters",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 312,
-        "company": "Stauffer Chemical - Pilot Plant",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 456,
-        "company": "Stauffer Chemical - Pipe",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 457,
-        "company": "Stauffer Chemical - Pipe Racks",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 458,
-        "company": "Stauffer Chemical - Plastics Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 459,
-        "company": "Stauffer Chemical - Powerhouse",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 460,
-        "company": "Stauffer Chemical - Pvc Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 461,
-        "company": "Stauffer Chemical - Reactor Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 462,
-        "company": "Stauffer Chemical - Sulphur Area",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 213,
-        "company": "Stauffer Chemical - Sulphur Unit",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 195,
-        "company": "Stauffer Chemical Co",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 262,
-        "company": "Stauffer Chemical Co. - Tide Water Plant",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 15,
+        "id": 33,
         "company": "Stauffer Chemical Company",
         "city": "Delaware City",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 370,
-        "company": "Stauffer Chemical Plant",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 128,
-        "company": "Stauffer Hoechst Polymer - Project #Wa-2",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 129,
-        "company": "Stauffer Hoechst Polymer - School House Road",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 16,
+        "id": 34,
         "company": "Stauffer Hoechst Polymer, Project #Wa-2",
         "city": "Delaware City",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 17,
+        "id": 35,
         "company": "Stauffer Hoechst Polymer, School House Rd.",
         "city": "Delaware City",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 68,
-        "company": "Sun Oil",
-        "city": "North Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 263,
-        "company": "Sun Oil Chemical Plant",
-        "city": "North Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 69,
-        "company": "Sun Oil Co",
-        "city": "N Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 264,
-        "company": "Sun Oil Company Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 654,
-        "company": "Sun Olin Chemical Company",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 655,
-        "company": "Sun Olin Chemical Company",
-        "city": "N. Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 425,
-        "company": "Sunoil Refinery",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 426,
-        "company": "Sunoil Refinery - Nitrogen Area",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 427,
-        "company": "Sunoil Refinery - Pumps",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 428,
-        "company": "Sunoil Refinery - Urea Area",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 28,
-        "company": "Sunolin",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 371,
-        "company": "Sunolin Chemical Company",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 113,
-        "company": "Sunolin Plant",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 265,
-        "company": "Texas Company",
-        "city": "Claymont",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 115,
-        "company": "Tide Fleet Corp",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 95,
-        "company": "Tidewater Associated Oil Co",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 286,
-        "company": "Tidewater Associated Oil Company",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 266,
-        "company": "Tidewater Associated Oil Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 70,
-        "company": "Tidewater Co",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 205,
-        "company": "Tidewater Oil",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 71,
-        "company": "Tidewater Oil Co",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 267,
-        "company": "Tidewater Oil Co.",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 268,
-        "company": "Tidewater Oil Co. - Berlin Plant",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 269,
-        "company": "Tidewater Oil Co. - Delaware City Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 270,
-        "company": "Tidewater Oil Co. - Delaware Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 271,
-        "company": "Tidewater Oil Co. - Off-Site Napthalene Plant",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 38,
-        "company": "Tidewater Oil Company",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 272,
-        "company": "Tidewater Oil Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 373,
-        "company": "Tidewater Oil Refinery",
-        "city": "New Castle",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 374,
-        "company": "Tidewater Oil Refinery",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 273,
-        "company": "Tidewater Refinery",
-        "city": "Delaware City",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 72,
-        "company": "Tidewater Tankers Ltd",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 628,
-        "company": "Turner Construction, 100 W. 10Th St. Building",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 634,
-        "company": "U.S. V.A. Hospital - Kirkwood Highway",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 635,
-        "company": "U.S. V.A. Hospital - Nursing Home Care Unit - Kirkwood Highway",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 274,
-        "company": "University Of Delaware - Boiler Plant",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 636,
-        "company": "University Of Delaware - Clayton Hall",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 135,
-        "company": "University Of Delaware - Evans Hall",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 502,
-        "company": "University Of Delaware - Library",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 629,
-        "company": "University Of Delaware, College & Education Building",
-        "city": "Newark",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 18,
+        "id": 36,
         "company": "University Of Delaware, Evans Hall",
         "city": "Newark",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 92,
-        "company": "Veterans Administration Hospital",
-        "city": "Elsmere",
+        "id": 37,
+        "company": "Air Reduction Company, Air Separation Plant",
+        "city": "Claymont",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 93,
-        "company": "Veterans Administration Hospital",
+        "id": 38,
+        "company": "Allied Chemical Corporation",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 39,
+        "company": "Avisun",
+        "city": "New Castle",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 40,
+        "company": "E.I. Dupont De Nemours And Company, Cooling Tower/Blur Room",
+        "city": "Newport",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 41,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Seaford",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 42,
+        "company": "E.I. Dupont De Nemours And Company",
+        "city": "Edgemoor",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 43,
+        "company": "General Foods",
+        "city": "Dover",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 44,
+        "company": "General Motors",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 631,
-        "company": "Wanamaker Building - Augustine Road",
-        "city": "Wilmington",
+        "id": 45,
+        "company": "I.C.I. America, Incorporated, Molasses Unit",
+        "city": "Atlas Point",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 632,
-        "company": "Warner Junior High School - 18Th Street",
-        "city": "Wilmington",
+        "id": 46,
+        "company": "Sunolin",
+        "city": "Claymont",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 73,
-        "company": "Wheatley Canning Co",
-        "city": "Clayton",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 148,
-        "company": "William H. G. Bullard",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 375,
-        "company": "William Thompson Heating Company",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 206,
-        "company": "Wilmington And Philadelphia Traction",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 391,
-        "company": "Wilmington Chemical",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 376,
-        "company": "Wilmington Hospital",
-        "city": "Wilmington",
-        "state": "DE",
-        "visibility": ""
-      },
-      {
-        "id": 29,
+        "id": 47,
         "company": "Wilmington Manor Gardens",
         "city": "New Castle County",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 633,
-        "company": "Wilmington Medical Center",
+        "id": 48,
+        "company": "Allied Chemical - Chlorine Unit",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 49,
+        "company": "Allied Chemical - Soap Unit",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 50,
+        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 5",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 51,
+        "company": "Delaware Power & Light - Edge Moor Power Plant - Unit 6",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 52,
+        "company": "Diamond Shamrock",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 53,
+        "company": "Dp&L Powerhouse - Indian River",
+        "city": "Millsboro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 54,
+        "company": "Dupont - Brandywine Building",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 55,
+        "company": "Dupont - Christiana Lab",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 56,
+        "company": "Tidewater Oil Company",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 57,
+        "company": "Getty Oil",
+        "city": "Reybold",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 58,
+        "company": "A.N. Quinby Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 59,
+        "company": "Allied Kid Company Standard Division",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 60,
+        "company": "American Car And Foundry Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 61,
+        "company": "American Leather Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 62,
+        "company": "Atlas Chemical Industries, Incorporated",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 63,
+        "company": "Atlas Powder Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 64,
+        "company": "Boldt Steel Company",
         "city": "New Castle",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 276,
-        "company": "Wilmington Shops",
+        "id": 65,
+        "company": "Bond Crown And Cork Company, Division Of Continental Can Company",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 630,
-        "company": "Wilmington Trust Company",
+        "id": 66,
+        "company": "Camden Heating Company",
+        "city": "Ft. Dupont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 67,
+        "company": "Colorado Fuel & Iron Company",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 68,
+        "company": "Compania Azucarera Dominicana Corporation",
+        "city": "San Pedro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 69,
+        "company": "Conectiv Energy Supply, Incorporated",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
       },
       {
-        "id": 329,
-        "company": "Winterthur Museum",
-        "city": "Greenville",
+        "id": 70,
+        "company": "Cork Insulation Company, Incorporated",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 71,
+        "company": "Crown Zellerbach Corporation, Gaylord Container Division",
+        "city": "Newark",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 72,
+        "company": "Del Valley Works South",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 73,
+        "company": "Delaware Button Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 74,
+        "company": "Delaware City",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 75,
+        "company": "Delaware Power & Light Company - Indian River Power Station",
+        "city": "Millsboro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 77,
+        "company": "Delaware Screw Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 78,
+        "company": "Delaware State Welfare Home",
+        "city": "Smyrna",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 79,
+        "company": "Delmarva Power & Light Company - Indian River Power Station",
+        "city": "Millsboro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 81,
+        "company": "Diamond Alkali Company",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 82,
+        "company": "Diamond Ice And Coal Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 83,
+        "company": "Diamond State Iron Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 84,
+        "company": "Du Pont Building",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 85,
+        "company": "Duke/Fluor Daniel",
+        "city": "Dover",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 86,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Edgemoor",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 87,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 88,
+        "company": "Dupont Research Center",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 90,
+        "company": "E.I. Dupont De Nemours Powder Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 101,
+        "company": "E.I. Dupont De Nemours & Company",
+        "city": "New Bridge",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 102,
+        "company": "Delmarva Power & Light Company - Edge Moor Power Plant - Unit 5",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 103,
+        "company": "Ft. Dupont",
+        "city": "Ft. Dupont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 104,
+        "company": "General Chemical Company",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 105,
+        "company": "General Chemical Division, Allied Chemical And Dye Corporation",
+        "city": "Clayton",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 106,
+        "company": "General Foods Corporation",
+        "city": "Dover",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 108,
+        "company": "General Motors Corporation",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 109,
+        "company": "Getty Oil Company",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 110,
+        "company": "General Motors Corporation Buick-Oldsmobile-Pontiac Assembly Division",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 111,
+        "company": "Goshen Iron Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 112,
+        "company": "H.P. Cannon & Son, Incorporated",
+        "city": "Bridgeville",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 113,
+        "company": "H.W. Jester Canning Company",
+        "city": "Ellendale",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 114,
+        "company": "Harlan And Hollingsworth",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 115,
+        "company": "Harlan And Hollingsworth Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 116,
+        "company": "Harlan And Hollingsworth Corporation",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 118,
+        "company": "Hercules, Incorporated",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 119,
+        "company": "Hercules Powder Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 120,
+        "company": "Hercules Powder Company, Incorporated",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 121,
+        "company": "Hilles And Jones Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 123,
+        "company": "Delmarva Power & Light Company - Indian River Power Station - Unit No. 3",
+        "city": "Millsboro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 124,
+        "company": "J.M. Poole",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 125,
+        "company": "Jackson And Sharp Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 126,
+        "company": "Jas. Riddle And Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 127,
+        "company": "Jessup And Moore",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 129,
+        "company": "Jessup And Moore Paper Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 130,
+        "company": "Jessup And Moore, Rockland Mills",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 131,
+        "company": "John Bancroft And Sons",
+        "city": "Rockford",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 132,
+        "company": "John G. Baker",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 133,
+        "company": "Krebs Pigment And Color Corporation",
+        "city": "Edgemoor",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 134,
+        "company": "L.B. Jcobs",
+        "city": "Newark",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 135,
+        "company": "Lea Milling Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 136,
+        "company": "Mccullough Iron",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 137,
+        "company": "Mccullough Iron Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 138,
+        "company": "Melville, Gambill And Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 139,
+        "company": "New Municipal Power Plant",
+        "city": "Dover",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 140,
+        "company": "Nrg Energy Incorporated",
+        "city": "Millsboro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 141,
+        "company": "P.J. Ritter Conserve Company",
+        "city": "Ellendale",
         "state": "DE",
         "visibility": ""
       },
       {
         "id": 142,
-        "company": "Worthington Pump",
+        "company": "Pennsylvania Railroad Company",
         "city": "Wilmington",
         "state": "DE",
         "visibility": ""
+      },
+      {
+        "id": 143,
+        "company": "Peoples Railway Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 144,
+        "company": "Pullman Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 145,
+        "company": "Pusey And Jones Corporation",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 146,
+        "company": "Pusey, Scott And Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 147,
+        "company": "Ralston Purina Co",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 148,
+        "company": "Rockland Mills",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 150,
+        "company": "Standard Arms Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 151,
+        "company": "Standard Chlorine Company",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 152,
+        "company": "Standard Oil Company Of Indiana",
+        "city": "Wood River",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 153,
+        "company": "Star Enterprise",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 154,
+        "company": "Stauffer Chemical",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 155,
+        "company": "Swift, Courtney And Beecher Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 156,
+        "company": "Tidewater Associated Oil Company",
+        "city": "Delaware City",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 157,
+        "company": "Townsends, Incorporated",
+        "city": "Millsboro",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 158,
+        "company": "Walton, Whann And Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 160,
+        "company": "Wickwire Spencer Steel Division",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 161,
+        "company": "Wilmington & Brandywine Springs Railway",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 162,
+        "company": "William Lea And Sons, Brandywine Mills",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 163,
+        "company": "Wilmington & Brandywine Springs Railway",
+        "city": "Elsmere",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 164,
+        "company": "Wilmington Chemical Corporation",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 165,
+        "company": "Wilmington Iron Works",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 166,
+        "company": "Wilmington Philadelphia Traction Company",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 167,
+        "company": "Wilmington Water Works",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 168,
+        "company": "William Lea And Sons",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 169,
+        "company": "Allied Chemical & Dye Corporation, General Chemical Division",
+        "city": "Claymont",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 170,
+        "company": "Owens Corning Fiberglas Corporation",
+        "city": "Newark",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 171,
+        "company": "Wilmington Medical Center",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 173,
+        "company": "B.F. Shaw",
+        "city": "Wilmington",
+        "state": "DE",
+        "visibility": ""
+      },
+      {
+        "id": 174,
+        "company": "Sun Oil Chemical Plant",
+        "city": "North Claymont",
+        "state": "DE",
+        "visibility": ""
       }
-     ]
+    ]
 }
