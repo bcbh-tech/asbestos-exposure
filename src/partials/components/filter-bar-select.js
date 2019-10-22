@@ -3,8 +3,8 @@ import React, { Component } from 'react';
 class FilterBarSelect extends Component {
     render () {
         return (
-            <div>
-                <p id="shipSelect" onClick={this.props.updateShips}>Select to search for ships</p>
+            <div className="ships-checkbox-container">
+                <input type="checkbox" id="shipSelect" onClick={this.props.updateShips} /><p>Select to search for ships</p>
             </div>
         );
     }

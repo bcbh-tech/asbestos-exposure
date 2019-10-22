@@ -119,16 +119,22 @@
 
 /* Pagination */
 
-.pagination {
+.pagination,
+.pagination-full-list {
   max-width: 800px;
   margin: 0 auto 50px;
   width: fit-content;
   display: flex;
   justify-content: space-between;
   padding-left: 0;
+  list-style-type: none;
 }
 
-.pagination > li {
+.pagination > li,
+.pagination-full-list > li {
+  display: inline-block; 
+  width: auto; 
+  color: #1999c0;
   background-color: #EAF2F6;
   margin: 0 15px;
   border: 2px solid #DEEBEB;
@@ -136,21 +142,37 @@
   font-weight: bold;
 }
 
-.pagination > li a {
+.pagination > li a,
+.pagination-full-list > li a {
+  display: inline-block; 
+  width: auto;
   padding: 5px 0;
   width: 32px;
   text-align: center;
 }
 
-.pagination > li.active {
-  background-color: #F0F0F0;
-  border: 2px solid #B4B4B4;
+.pagination-full-list > li a {
+  padding: 5px 11px;
+  width: auto;
 }
 
-.pagination > li.break-me {
+.pagination > li.active,
+.pagination-full-list > li.active {
+  background-color: #F0F0F0;
+  border: 2px solid #B4B4B4;
+  color: black;
+}
+
+.pagination > li.break-me,
+.pagination-full-list > li.break-me {
   background-color: rgba(0,0,0,0);
   border: none;
   margin: 0;
+}
+
+.pagination li:hover,
+.pagination-full-list li:hover {
+  cursor: pointer;
 }
 
 /* Loading Placeholder Animation */
@@ -204,4 +226,62 @@
 
 .item-list-empty p {
   padding-left: 20px;
+}
+
+.ships-checkbox-container {
+  padding: 20px 20px 0;
+}
+
+.ships-checkbox-container input {
+  display: inline-block;
+}
+
+.ships-checkbox-container p {
+  display: inline-block;
+  padding-left: 20px;
+  color: #DFFCFD;
+  font-size: 18px;
+}
+
+.city-bar-items {
+  position: relative;
+}
+
+.city-bar-items [class *="singleValue"] {
+  padding-left: 45px;
+}
+
+.city-bar-items > span {
+  position: absolute;
+  left: 10px;
+  top: 5px;
+  padding-top: 5px;
+  padding-right: 9px;
+  z-index: 10;
+  height: 60%;
+  border-right: 1px solid lightgray;
+}
+
+span.css-1okebmr-indicatorSeparator {
+  display: none;
+}
+
+#react-select-3-input {
+  padding-left: 45px !important;
+}
+
+.filter-bar-items [class *="indicatorContainer"] {
+    background-image:
+      url('https://wpmedia.mesotheliomaguide.com/images/dev/asbestos-exposure-list/dropdown-arrows.png');
+    background-position: calc(100% - .5rem), 100% 0;
+    background-size:  0.9em 0.9em;
+    background-repeat: no-repeat;
+}
+
+.filter-bar-items [class *="indicatorContainer"] svg path {
+  display: none;
+}
+
+.ships-item-list .list-item-right {
+  display: none;
 }

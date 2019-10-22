@@ -38,8 +38,11 @@ class App extends Component {
     pagination: 0,
     cityFilter: '',
     loading: false,
-    selectedCity: [{"value": "none", "label": "Select..."}],
-    selectedState: [{"value": "al", "label": "Alabama"}]
+    selectedCity: [{"value": "none", "label": "Select or start typing..."}],
+    selectedState: [{"value": "al", "label": "Alabama"}],
+    shipsSelected: false,
+    allCityList: false,
+    allStatesSelected: false
   }
 
   ////////////////////////////
@@ -88,33 +91,66 @@ class App extends Component {
         cityFilter: '',
         pagination: 0,
         totalPages: Math.ceil(data.results.length / 15),
-        selectedCity: [{"value": "none", "label": "Select..."}],
+        selectedCity: [{"value": "none", "label": "Select or start typing..."}],
         selectedState: [{"value": resizeStateSelection, "label": handleOutsideStateSelect(stateList, resizeStateSelection)}]
       });
     });
+    if (resizeStateSelection === "all") {
+      fetch('/data/city-list.json')
+      .then((res) => res.json())
+      .then((data) => {
+        this.setState({
+          allCityList: data.results,
+          allStatesSelected: true
+        });
+      });
+    } else {
+      this.setState({
+        allCityList: false,
+        allStatesSelected: false
+      });
+    }
   }
 
   updateShips = () => {
-    this.setState({
-      loading: true,
-      value: ''
-    });
-    let dataFetchString = '/data/ships.json';
-    fetch(dataFetchString)
-    .then((res) => res.json())
-    .then((data) => {
-      this.setState({
-        loading: false,
-        products: data.results,
-        filteredProducts: data.results,
-        filter: '',
-        cityFilter: '',
-        pagination: 0,
-        totalPages: Math.ceil(data.results.length / 15),
-        selectedCity: [{"value": "none", "label": "Select..."}],
-        selectedState: [{"value": 'select', "label": 'Select...'}]
+    if (this.state.shipsSelected) {
+      this.setState({loading: true});
+      fetch(`/data/al.json`)
+      .then((res) => res.json())
+      .then((data) => {
+        this.setState({
+          loading: false,
+          products: data.results,
+          filteredProducts: data.results,
+          totalPages: Math.ceil(data.results.length / 15),
+          value: "al",
+          selectedState: [{"value": "al", "label": "Alabama"}],
+          shipsSelected: false
+        });
       });
-    });
+    } else {
+      this.setState({
+        loading: true,
+        value: ''
+      });
+      let dataFetchString = '/data/ships.json';
+      fetch(dataFetchString)
+      .then((res) => res.json())
+      .then((data) => {
+        this.setState({
+          loading: false,
+          products: data.results,
+          filteredProducts: data.results,
+          filter: '',
+          cityFilter: '',
+          pagination: 0,
+          totalPages: Math.ceil(data.results.length / 15),
+          selectedCity: [{"value": "none", "label": "Select or start typing..."}],
+          selectedState: [{"value": 'select', "label": 'Select...'}],
+          shipsSelected: true
+        });
+      });
+    }
   }
 
   ////////////////////////////
@@ -187,6 +223,8 @@ class App extends Component {
               rawAppData={this.state.products}
               selectedState={this.state.selectedState}
               stateList={stateList}
+              allCityList={this.state.allCityList}
+              cityFilter={this.state.cityFilter}
             />
           </div>
           <FilterBarSelect
@@ -197,12 +235,14 @@ class App extends Component {
         <ItemList 
           filteredAppData={this.state.filteredProducts}
           searchQuery={this.state.filter}
-          listLoading={this.state.loading} 
+          listLoading={this.state.loading}
+          shipsSelected={this.state.shipsSelected}
         />
         <Pagination 
           updateFullList={this.handlePaginationClick} 
           totalPageCount={this.state.totalPages}
-          paginationSelection={this.state.pagination} 
+          paginationSelection={this.state.pagination}
+          allStatesSelected={this.state.allStatesSelected}
         />
       </div>
     );

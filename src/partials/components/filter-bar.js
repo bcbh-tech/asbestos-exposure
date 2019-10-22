@@ -9,20 +9,43 @@ class FilterBar extends Component {
         filteredCityData(this.props.rawAppData);
     }
     render () {
-        let adjustedCityData = this.props.rawAppData.map((a) => a.city).sort();
-        adjustedCityData = adjustedCityData.map((a) => ({"value": a.toLowerCase(), "label": a}));
-        adjustedCityData.unshift({value: '', label: 'All'});
-        let filteredArr = adjustedCityData.reduce((acc, current) => {
-            let x = acc.find(item => item.value === current.value);
-            if (!x) {return acc.concat([current]);} else {return acc;}
-        }, []);
 
         ////////////////////////////
         // Conditional render for desktop/tablet
         ////////////////////////////
 
         var viewportWidth = window.innerWidth || document.documentElement.clientWidth;
-        if (viewportWidth > 700) {
+        if (this.props.allCityList !== false) {
+            return (
+            <div className="filter-bar-items">
+            <Select
+            options={this.props.stateList}
+            onChange={this.props.updateState}
+            value={this.props.selectedState}
+            isSearchable={false}
+            >
+            </Select>
+            <Select 
+            onChange={this.props.updateCity}
+            options={this.props.allCityList} 
+            value={this.props.selectedCity}
+            >
+            </Select>
+            <input
+            placeholder="Search"
+            onChange={this.props.searchList} value={this.props.filter}
+            />
+            </div>
+            );
+        }
+        else if (viewportWidth > 700) {
+            let adjustedCityData = this.props.rawAppData.map((a) => a.city).sort();
+            adjustedCityData = adjustedCityData.map((a) => ({"value": a.toLowerCase(), "label": a}));
+            adjustedCityData.unshift({value: '', label: 'All'});
+            let filteredArr = adjustedCityData.reduce((acc, current) => {
+                let x = acc.find(item => item.value === current.value);
+                if (!x) {return acc.concat([current]);} else {return acc;}
+            }, []);
             return (
                 <div className="filter-bar-items">
                     <Select
@@ -32,19 +55,22 @@ class FilterBar extends Component {
                     isSearchable={false}
                     >
                     </Select>
-                    <Select 
-                    onChange={this.props.updateCity}
-                    options={filteredArr} 
-                    value={this.props.selectedCity}
-                    >
-                    </Select>
+                    <div className="city-bar-items">
+                        <span>City</span>
+                        <Select 
+                        onChange={this.props.updateCity}
+                        options={filteredArr} 
+                        value={this.props.selectedCity}
+                        >
+                        </Select>
+                    </div>
                     <input
-                    placeholder="Search for..."
+                    placeholder="Search"
                     onChange={this.props.searchList} value={this.props.filter}
                     />
               </div>
             );
-        } 
+        }
         
         ////////////////////////////
         // Conditional render for mobile
@@ -52,6 +78,13 @@ class FilterBar extends Component {
 
         else {
             // If Mobile Device
+            let adjustedCityData = this.props.rawAppData.map((a) => a.city).sort();
+            adjustedCityData = adjustedCityData.map((a) => ({"value": a.toLowerCase(), "label": a}));
+            adjustedCityData.unshift({value: '', label: 'All'});
+            let filteredArr = adjustedCityData.reduce((acc, current) => {
+                let x = acc.find(item => item.value === current.value);
+                if (!x) {return acc.concat([current]);} else {return acc;}
+            }, []);
             return (
                 <div className="filter-bar-items">
                     <StateSelect
@@ -63,7 +96,7 @@ class FilterBar extends Component {
                     updateCity={this.props.updateCity}
                     />
                     <input
-                    placeholder="Search for..."
+                    placeholder="Search"
                     onChange={this.props.searchList} value={this.props.filter}
                     />
               </div>
