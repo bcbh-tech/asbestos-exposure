@@ -92,7 +92,9 @@ class App extends Component {
         pagination: 0,
         totalPages: Math.ceil(data.results.length / 15),
         selectedCity: [{"value": "none", "label": "Select or start typing..."}],
-        selectedState: [{"value": resizeStateSelection, "label": handleOutsideStateSelect(stateList, resizeStateSelection)}]
+        selectedState: [{"value": resizeStateSelection, "label": handleOutsideStateSelect(stateList, resizeStateSelection)}],
+        shipsSelected: false
+
       });
     });
     if (resizeStateSelection === "all") {
@@ -229,6 +231,7 @@ class App extends Component {
           </div>
           <FilterBarSelect
             updateShips={this.updateShips}
+            shipsSelected={this.state.shipsSelected}
           />
           <FilterBarLower />
         </div>
