@@ -2,7 +2,7 @@
     "results": [
             {
               "id": 1,
-              "company": "3rd Surface To Air Missile (Sam) Support Detachment",
+              "company": "3rd Surface To Air Missile (SAM) Support Detachment",
               "city": "Abilene",
               "state": "TX",
               "visibility": "visible"
@@ -807,7 +807,7 @@
             },
             {
               "id": 116,
-              "company": "State Hospital For The Mentally ILL",
+              "company": "State Hospital For The Mentally Ill",
               "city": "Austin",
               "state": "TX",
               "visibility": ""

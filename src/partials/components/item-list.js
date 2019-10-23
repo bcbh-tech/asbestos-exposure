@@ -12,7 +12,7 @@ class ItemList extends Component {
             return placeholiderList;
         }
         let placeholderList = loadingAnimation();
-        if (this.props.shipsSelected) {
+        if (this.props.shipsSelected && fullList.length !== 0) {
             return (
                 <div>
                     <ul className="item-list ships-item-list" id="item-list">

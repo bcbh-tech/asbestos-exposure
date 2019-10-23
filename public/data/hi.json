@@ -260,13 +260,6 @@
         "visibility": ""
       },
       {
-        "id": 43,
-        "company": "Erra Plantation",
-        "city": "Hawaii",
-        "state": "HI",
-        "visibility": ""
-      },
-      {
         "id": 44,
         "company": "Fuel Oil Storage Plant",
         "city": "Pearl Harbor",
@@ -645,13 +638,6 @@
         "visibility": ""
       },
       {
-        "id": 104,
-        "company": "Kanoehe Rauch Company",
-        "city": "Hawaii",
-        "state": "HI",
-        "visibility": ""
-      },
-      {
         "id": 105,
         "company": "Kauai Pineapple Company, Limited",
         "city": "Lawai Kauai",
@@ -669,13 +655,6 @@
         "id": 107,
         "company": "Kilauea Sugar Plantation Company",
         "city": "Honolulu",
-        "state": "HI",
-        "visibility": ""
-      },
-      {
-        "id": 108,
-        "company": "Kohala Sugar Company",
-        "city": "Hawaii",
         "state": "HI",
         "visibility": ""
       },
@@ -991,13 +970,6 @@
         "id": 159,
         "company": "Waialua Agricultural Company, Station Number 6",
         "city": "Lualualei",
-        "state": "HI",
-        "visibility": ""
-      },
-      {
-        "id": 160,
-        "company": "Waialua Plantation",
-        "city": "Hawaii",
         "state": "HI",
         "visibility": ""
       },

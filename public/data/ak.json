@@ -15,13 +15,6 @@
         "visibility": "visible"
       },
       {
-        "id": 3,
-        "company": "Arco Refinery",
-        "city": "Alaska",
-        "state": "AK",
-        "visibility": "visible"
-      },
-      {
         "id": 4,
         "company": "Cape Lisburne AFB",
         "city": "Cape Lisburne",
@@ -39,20 +32,6 @@
         "id": 6,
         "company": "Cape Romanzof AFB",
         "city": "Cape Romanzof",
-        "state": "AK",
-        "visibility": "visible"
-      },
-      {
-        "id": 7,
-        "company": "USURAAL Credit Union",
-        "city": "Alaska",
-        "state": "AK",
-        "visibility": "visible"
-      },
-      {
-        "id": 8,
-        "company": "Value-mart",
-        "city": "Alaska",
         "state": "AK",
         "visibility": "visible"
       },
