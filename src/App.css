@@ -43,6 +43,16 @@
   margin: 0 auto;
 }
 
+.input-container {
+  flex-basis: 30%;
+    height: 38px;
+    box-sizing: border-box;
+}
+
+.input-container > input {
+  width: 100%;
+}
+
 .filter-bar-boxes {
   padding: 10px 20px;
 }
