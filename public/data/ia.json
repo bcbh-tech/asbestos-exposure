@@ -6162,7 +6162,7 @@
       },
       {
         "id": 1253,
-        "company": "Veterans’ Administration Hospital",
+        "company": "Veterans‚Äô Administration Hospital",
         "city": "Iowa City",
         "state": "IA",
         "visibility": ""
@@ -6370,5 +6370,5 @@
         "state": "IA",
         "visibility": ""
       }
-    ]
+     ]
 }
