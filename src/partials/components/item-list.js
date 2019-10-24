@@ -36,7 +36,7 @@ class ItemList extends Component {
                         <p className="item-list-empty-bold">Search Suggestions</p>
                         <p>Check your spelling.</p>
                         <p>Try a more generic search.</p>
-                        <p>Send us a message, we can help you find an exposure site location.</p>
+                        <p><a href="mailto:webmaster@mesotheliomaguide.com">Send us a message</a>, we can help you find an exposure site location.</p>
                     </div>
                 </div>
             );

@@ -4,7 +4,7 @@ class FilterBarSelect extends Component {
     render () {
         return (
             <div className="ships-checkbox-container">
-                <input type="checkbox" id="shipSelect" checked={this.props.shipsSelected} onClick={this.props.updateShips} /><p>Select to search for ships</p>
+                <input type="checkbox" id="shipSelect" checked={this.props.shipsSelected} onClick={this.props.updateShips} /><p>Select to search for Navy and Coast Guard ships</p>
             </div>
         );
     }
