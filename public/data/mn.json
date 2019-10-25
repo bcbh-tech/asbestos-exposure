@@ -2,224 +2,224 @@
     "results": [
       {
         "id": 1,
-        "company": "Northwest Paper Co.",
-        "city": "Cloquet",
+        "company": "Ashland Oil",
+        "city": "St. Paul",
         "state": "MN",
         "visibility": "visible"
       },
       {
         "id": 2,
-        "company": "M.L. Hibbard Steam Plant",
-        "city": "Duluth",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 3,
-        "company": "Koch Refinery",
-        "city": "Hastings",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 4,
-        "company": "M & O Paper Company",
-        "city": "International Falls",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 5,
-        "company": "Madison Power Plant",
-        "city": "Madison",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 6,
-        "company": "Blackdog Powerhouse",
-        "city": "Minneapolis",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 7,
-        "company": "Northern States Power Company",
-        "city": "Minneapolis",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 8,
-        "company": "University Of Minnesota",
-        "city": "Minneapolis",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 9,
-        "company": "Great Northern Oil Co.",
-        "city": "Pine Bend",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 10,
-        "company": "Koch Oil Refinery",
-        "city": "Pine Bend",
-        "state": "MN",
-        "visibility": "visible"
-      },
-      {
-        "id": 11,
         "company": "Ashland Oil Refinery",
         "city": "Saint Paul",
         "state": "MN",
         "visibility": "visible"
       },
       {
-        "id": 12,
-        "company": "Fox Lake Power Plant",
-        "city": "Sherburn",
+        "id": 3,
+        "company": "Bethlehem Steel Tukentie Plant",
+        "city": "Onora",
         "state": "MN",
         "visibility": "visible"
       },
       {
-        "id": 13,
+        "id": 4,
+        "company": "Blackdog Powerhouse",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 5,
+        "company": "Butler Tactinite",
+        "city": "Naswalk",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 6,
         "company": "Cleveland Cliffs Taconite Pellet Mill",
         "city": "Silver Bay",
         "state": "MN",
         "visibility": "visible"
       },
       {
-        "id": 14,
-        "company": "Reserve Mining Co.",
-        "city": "Silver Bay",
+        "id": 7,
+        "company": "Cornelius Manufacturing",
+        "city": "Minneapolis",
         "state": "MN",
         "visibility": "visible"
       },
       {
-        "id": 15,
+        "id": 8,
         "company": "Cyprus Minerals",
         "city": "Silver Bay",
         "state": "MN",
         "visibility": "visible"
       },
       {
-        "id": 16,
+        "id": 9,
         "company": "E.W. Davis Works",
         "city": "Silver Bay",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 10,
+        "company": "Fox Lake Power Plant",
+        "city": "Sherburn",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 11,
+        "company": "Great Northern Oil Co.",
+        "city": "Pine Bend",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 12,
+        "company": "Honeywell Plant",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 13,
+        "company": "Koch Oil Refinery",
+        "city": "Pine Bend",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 14,
+        "company": "Koch Refinery",
+        "city": "Hastings",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 15,
+        "company": "M & O Paper Company",
+        "city": "International Falls",
+        "state": "MN",
+        "visibility": "visible"
+      },
+      {
+        "id": 16,
+        "company": "M.L. Hibbard Steam Plant",
+        "city": "Duluth",
         "state": "MN",
         "visibility": ""
       },
       {
         "id": 17,
-        "company": "St. Cloud Power House",
-        "city": "St. Cloud",
+        "company": "Madison Power Plant",
+        "city": "Madison",
         "state": "MN",
         "visibility": ""
       },
       {
         "id": 18,
-        "company": "Waldorff Paper Company",
-        "city": "St. Paul",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 19,
         "company": "Minnesota Power & Light",
         "city": "Duluth",
         "state": "MN",
         "visibility": ""
       },
       {
-        "id": 20,
-        "company": "US Steel",
-        "city": "Duluth",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 21,
-        "company": "Tactinite Plant",
-        "city": "Hibbing",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 22,
-        "company": "Cornelius Manufacturing",
-        "city": "Minneapolis",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 23,
-        "company": "Honeywell Plant",
-        "city": "Minneapolis",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 24,
+        "id": 19,
         "company": "Nicolette Mall",
         "city": "Minneapolis",
         "state": "MN",
         "visibility": ""
       },
       {
-        "id": 25,
+        "id": 20,
+        "company": "Northern States Power",
+        "city": "St. Paul",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 21,
+        "company": "Northern States Power Company",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 22,
+        "company": "Northwest Paper Co.",
+        "city": "Cloquet",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 23,
         "company": "Radisson Hotel",
         "city": "Minneapolis",
         "state": "MN",
         "visibility": ""
       },
       {
-        "id": 26,
-        "company": "Twin Cities Arsenal",
-        "city": "Minnesota",
+        "id": 24,
+        "company": "Reserve Mining Co.",
+        "city": "Silver Bay",
         "state": "MN",
         "visibility": ""
       },
       {
-        "id": 27,
-        "company": "Twin City Mall",
-        "city": "Monroe",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 28,
-        "company": "Butler Tactinite",
-        "city": "Naswalk",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 29,
-        "company": "Bethlehem Steel Tukentie Plant",
-        "city": "Onora",
-        "state": "MN",
-        "visibility": ""
-      },
-      {
-        "id": 30,
+        "id": 25,
         "company": "Sartell ISD",
         "city": "Sartell",
         "state": "MN",
         "visibility": ""
       },
       {
+        "id": 26,
+        "company": "St. Cloud Power House",
+        "city": "St. Cloud",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 27,
+        "company": "Tactinite Plant",
+        "city": "Hibbing",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 28,
+        "company": "Twin Cities Arsenal",
+        "city": "Minnesota",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 29,
+        "company": "Twin City Mall",
+        "city": "Monroe",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
+        "id": 30,
+        "company": "University Of Minnesota",
+        "city": "Minneapolis",
+        "state": "MN",
+        "visibility": ""
+      },
+      {
         "id": 31,
-        "company": "Ashland Oil",
-        "city": "St. Paul",
+        "company": "US Steel",
+        "city": "Duluth",
         "state": "MN",
         "visibility": ""
       },
       {
         "id": 32,
-        "company": "Northern States Power",
+        "company": "Waldorff Paper Company",
         "city": "St. Paul",
         "state": "MN",
         "visibility": ""
@@ -2170,5 +2170,5 @@
         "state": "MN",
         "visibility": ""
       }
-    ]
+     ]
 }
