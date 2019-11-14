@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import './App.css';
+import axios from 'axios';
 
 ////////////////////////////
 // Import components
@@ -59,14 +60,13 @@ class App extends Component {
     this.setState({loading: true});
     let outsideStateSelect = window.location.href.indexOf("state") > -1 ? window.location.href.split('state=')[1] : 'al';
     if (document.getElementById("state-select")) {document.getElementById("state-select").value = outsideStateSelect;}
-    fetch(`/data/${outsideStateSelect}.json`)
-    .then((res) => res.json())
-    .then((data) => {
+    axios.get(`/data/${outsideStateSelect}.json`)
+    .then((response) => {
       this.setState({
         loading: false,
-        products: data.results,
-        filteredProducts: data.results,
-        totalPages: Math.ceil(data.results.length / 15),
+        products: response.data.results,
+        filteredProducts: response.data.results,
+        totalPages: Math.ceil(response.data.results.length / 15),
         value: outsideStateSelect,
         selectedState: [{"value": outsideStateSelect, "label": handleOutsideStateSelect(stateList, outsideStateSelect)}]
       });
@@ -80,17 +80,16 @@ class App extends Component {
       value: resizeStateSelection
     });
     let dataFetchString = `/data/${resizeStateSelection}.json`;
-    fetch(dataFetchString)
-    .then((res) => res.json())
-    .then((data) => {
+    axios.get(dataFetchString)
+    .then((response) => {
       this.setState({
         loading: false,
-        products: data.results,
-        filteredProducts: data.results,
+        products: response.data.results,
+        filteredProducts: response.data.results,
         filter: '',
         cityFilter: '',
         pagination: 0,
-        totalPages: Math.ceil(data.results.length / 15),
+        totalPages: Math.ceil(response.data.results.length / 15),
         selectedCity: [{"value": "none", "label": "Select or start typing..."}],
         selectedState: [{"value": resizeStateSelection, "label": handleOutsideStateSelect(stateList, resizeStateSelection)}],
         shipsSelected: false
@@ -98,11 +97,10 @@ class App extends Component {
       });
     });
     if (resizeStateSelection === "all") {
-      fetch('/data/city-list.json')
-      .then((res) => res.json())
-      .then((data) => {
+      axios.get('/data/city-list.json')
+      .then((response) => {
         this.setState({
-          allCityList: data.results,
+          allCityList: response.data.results,
           allStatesSelected: true
         });
       });
@@ -117,14 +115,13 @@ class App extends Component {
   updateShips = () => {
     if (this.state.shipsSelected) {
       this.setState({loading: true});
-      fetch(`/data/al.json`)
-      .then((res) => res.json())
-      .then((data) => {
+      axios.get(`/data/al.json`)
+      .then((response) => {
         this.setState({
           loading: false,
-          products: data.results,
-          filteredProducts: data.results,
-          totalPages: Math.ceil(data.results.length / 15),
+          products: response.data.results,
+          filteredProducts: response.data.results,
+          totalPages: Math.ceil(response.data.results.length / 15),
           value: "al",
           selectedState: [{"value": "al", "label": "Alabama"}],
           shipsSelected: false
@@ -136,17 +133,16 @@ class App extends Component {
         value: ''
       });
       let dataFetchString = '/data/ships.json';
-      fetch(dataFetchString)
-      .then((res) => res.json())
-      .then((data) => {
+      axios.get(dataFetchString)
+      .then((response) => {
         this.setState({
           loading: false,
-          products: data.results,
-          filteredProducts: data.results,
+          products: response.data.results,
+          filteredProducts: response.data.results,
           filter: '',
           cityFilter: '',
           pagination: 0,
-          totalPages: Math.ceil(data.results.length / 15),
+          totalPages: Math.ceil(response.data.results.length / 15),
           selectedCity: [{"value": "none", "label": "Select or start typing..."}],
           selectedState: [{"value": 'select', "label": 'Select...'}],
           shipsSelected: true

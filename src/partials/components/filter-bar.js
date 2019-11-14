@@ -64,7 +64,7 @@ class FilterBar extends Component {
                         >
                         </Select>
                     </div>
-                    <span class="input-container">
+                    <span className="input-container">
                     <input
                     placeholder="Search"
                     onChange={this.props.searchList} value={this.props.filter}
